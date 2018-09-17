@@ -76,4 +76,30 @@ $( document ).ready( function () {
 		$( 'html, body' ).animate( {scrollTop: offset}, 3000, "ease" );
 	} );
 
+	// to the top btn
+
+	$( window ).scroll( function () {
+
+		if ( $( this ).scrollTop() > 100 ) {
+			$( ".top_btn" ).fadeIn( 500 );
+		} else {
+			$( ".top_btn" ).fadeOut( 500 );
+		}
+	} );
+
+	$( ".top_btn" ).click( function () {
+		$( 'html' ).animate( {scrollTop: 500}, 1500 );
+	} );
+
+	// header_title fadeOut
+
+	$(window).scroll(function (  ) {
+		if ( $(this).scrollTop() > 2000 ) {
+			$('.header_title').fadeOut();
+		} else {
+			$('.header_title').fadeIn();
+		}
+	});
+
+
 } );

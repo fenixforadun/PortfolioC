@@ -29,6 +29,23 @@ h1:lang(en), h2:lang(en), h3:lang(en), h4:lang(en), p:lang(en), span:lang(en), a
     right: 10px
 }
 
+.top_btn {
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+    background: #ffd400;
+    color: #fff;
+    width: 55px;
+    height: 55px;
+    text-align: center;
+    line-height: 55px;
+    cursor: pointer;
+    font-size: 27.5px;
+    z-index: 999;
+    display: none;
+    border-radius: 15px;
+}
+
 html, body {
     font-size: 14px;
 }
