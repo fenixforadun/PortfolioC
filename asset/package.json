@@ -1,0 +1,29 @@
+{
+  "name": "byoung_yun_yi_portfolio_a",
+  "version": "1.0.0",
+  "description": "이병윤의 포트폴리오 A",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fenixforadun/PortfolioA.git"
+  },
+  "keywords": [
+    "byoung-yun_Yi",
+    "이병윤",
+    "BY",
+    "포트폴리오",
+    "portfolio"
+  ],
+  "author": "이병윤, BY, byoung-yun_Yi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fenixforadun/PortfolioA/issues"
+  },
+  "homepage": "https://github.com/fenixforadun/PortfolioA#readme",
+  "dependencies": {
+    "wowjs": "^1.1.3"
+  }
+}

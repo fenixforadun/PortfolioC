@@ -1,0 +1,350 @@
+@mixin widthHeight($width, $height) {
+  width: percentage($width) / 100;
+  height: percentage($height) / 100;
+}
+
+section {
+  @include widthHeight(100, 100);
+  position: relative;
+  z-index: 3;
+  background: linear-gradient(to bottom, #f8b95f 0%, #ffffff 100%);
+
+  article {
+    padding: 100px 15px;
+  }
+}
+
+article {
+  transition: .6s ease;
+}
+
+.container-fluid {
+  padding-right: 0;
+  padding-left: 0;
+}
+
+.design_row {
+  @include widthHeight(100, 100);
+  &:nth-child(1) {
+    .mainImg {
+      > img {
+        width: 100%;
+      }
+      &:nth-child(1) {
+        padding-top: 30px;
+        padding-bottom: 450px;
+      }
+      &:nth-child(2) {
+        padding-top: 400px;
+        height: 100%;
+        > img {
+          margin: 0 auto;
+        }
+      }
+
+      .desc {
+        .desc_row {
+          margin-top: 15px;
+          padding: 15px 0;
+          background: rgba(255, 248, 42, 0.23);
+          margin-right: 0;
+          margin-left: 0;
+          div {
+            opacity: 0;
+            padding-bottom: 20px;
+
+            @for $i from 1 through 11 {
+              $desert_transition_sec: 2, 1.5, 3, 2.2, 1.9, 2.9, 3, 1.2, 2.1, 1.6, 2.5;
+              $desert_transition: nth($desert_transition_sec, $i);
+
+              &:nth-child(#{$i}) {
+                transition: $desert_transition*1s ease;
+              }
+            }
+            img {
+              @include widthHeight(100, 100);
+              cursor: pointer;
+              border-radius: 15px;
+              border: 10px solid #c0a16b;
+            }
+          }
+        }
+      }
+    }
+  }
+
+  #desert {
+    &:hover ~ .desc #desert_wrap > div {
+      opacity: 1;
+    }
+  }
+
+  &:nth-child(2) {
+    padding: 200px 0;
+    > .mainImg {
+      position: relative;
+      margin: 0 auto;
+      padding-left: 0;
+      padding-right: 0;
+    }
+    .mainImg > img {
+      margin: 0 auto;
+    }
+  }
+  &:nth-child(3) {
+    padding-bottom: 200px;
+
+    > .mainImg {
+      > img {
+        @include widthHeight(50, 90);
+        margin: 0 auto;
+      }
+    }
+
+    .col-7.mainImg {
+      position: relative;
+      text-align: center;
+
+      > img {
+        transition: .6s ease;
+
+        &:nth-child(1) {
+          position: absolute;
+          left: 50%;
+          transform: translateX(-50%);
+          display: block;
+        }
+
+        &:nth-child(2) {
+          display: none;
+          margin: 0 auto;
+        }
+      }
+    }
+    .col-5.mainImg {
+      padding-top: 500px;
+
+      > img {
+        width: 80%;
+      }
+    }
+  }
+  &:nth-child(4) {
+    > .mainImg {
+      margin-right: -200px;
+      img {
+        margin: 0 auto;
+        @include widthHeight(50, 100);
+      }
+    }
+    > .col-4 > ul {
+      margin-bottom: 0;
+      overflow: hidden;
+      background: rgba(255, 159, 47, 0.71);
+      padding: 50px 15px;
+      margin-top: 200px;
+
+      > li {
+        display: inline-block;
+        width: 50%;
+        height: 100%;
+        float: left;
+        padding: 10px 0;
+        opacity: 0;
+        visibility: hidden;
+        transition: 1s ease;
+
+        img {
+          @include widthHeight(80, 100);
+          display: block;
+          margin: 0 auto;
+          border: 10px solid #c0a16b;
+
+        }
+      }
+    }
+  }
+}
+
+$index2_img_speed: 1, 3, 2, 1.2, 1, 6, 2.5, 2.3, 3.5;
+
+@for $i from 1 through 8 {
+
+  $index2_img_transition: nth($index2_img_speed, $i);
+
+  .col-4.mainImg4 > ul > li:nth-child(#{$i}) {
+    transition: $index2_img_transition*1s ease;
+  }
+}
+
+.mainImg > img {
+  $borderColor: rgb(255, 229, 184);
+  border: 30px solid $borderColor;
+  cursor: pointer;
+  display: block;
+  transition: border .6s ease;
+
+  &:hover {
+    border: 30px solid darken($borderColor, 10%);
+  }
+}
+
+#design {
+  position: relative;
+}
+
+.design_desc1 {
+  position: absolute;
+  top: 100px;
+  right: 5vw;
+  width: 760px;
+  height: 300px;
+  background: #FF9600;
+}
+
+.terminal {
+  padding: 10px;
+  width: 700px;
+  box-sizing: border-box;
+  background: #ccc;
+  margin: 23px 30px 0 30px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+
+  .terminal_button {
+    width: 22px;
+    height: 22px;
+    border-radius: 50%;
+    border: 1px solid transparent;
+    position: relative;
+    top: 0;
+    left: 6px;
+    background-color: #ff3b47;
+    display: inline-block;
+    cursor: pointer;
+
+    &.minimize_button {
+      left: 11px;
+      background-color: #ffc100;
+    }
+
+    &.maximize_button {
+      left: 16px;
+      background: #00d742;
+    }
+
+    span {
+      display: inline-block;
+      position: relative;
+      top: -3px;
+      left: 3px;
+      opacity: 0;
+      visibility: hidden;
+      transition: .3s linear;
+      color: #555;
+    }
+    &.close_button span {
+      top: 0;
+      left: 6px;
+    }
+
+    &:hover span {
+      opacity: 1;
+      visibility: visible;
+    }
+  }
+}
+
+.terminal_screen {
+  background: #222;
+  box-sizing: border-box;
+  width: 700px;
+  padding: 20px;
+  margin-left: 30px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+
+  p {
+    font-family: NanumGothicCoding, monospace;
+    position: relative;
+    margin-left: 1rem;
+    font-size: 1.3rem;
+    overflow: hidden;
+    width: 0;
+    margin-bottom: 0;
+    white-space: nowrap;
+    color: #ffffff;
+  }
+
+  $line_animation_speed: 1, 4.25, 7.5, 10.75, 14, 16.25;
+  $line_easing: steps(20, end) forwards;
+  $cursor_easing: 2 forwards;
+
+  @for $j from 1 through 6 {
+    $line_seconds: nth($line_animation_speed, $j);
+    p:nth-child(#{$j}) {
+      animation: typing .5s $line_seconds*1s $line_easing;
+
+      span.cursor {
+        $cursor_seconds: $line_seconds+1s;
+        animation: blinking 1s $cursor_seconds $cursor_easing;
+      }
+    }
+  }
+
+  span {
+    color: #ffffff;
+    font-weight: bold;
+  }
+}
+
+.last_cursor {
+  animation: blinking 1s 15s infinite !important;
+  padding-left: 5px;
+}
+
+/* animation typing and blinking*/
+
+@keyframes blinking {
+  0% {
+    opacity: 0;
+  }
+  40% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 1;
+  }
+  90% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+
+@keyframes typing {
+  to {
+    width: 100%;
+  }
+}
+
+/* sakura */
+
+.design_desc2 {
+  position: absolute;
+  top: 800px;
+  left: 50px;
+  background: rgb(209, 222, 255);
+  width: 600px;
+  height: 300px;
+  border-radius: 15px;
+  overflow: hidden;
+
+  #petals {
+    width: 100%;
+    height: 100%;
+    border-radius: 15px;
+    box-shadow: 4px 6px 5px 1px rgba(62, 197, 207, 1);
+  }
+}

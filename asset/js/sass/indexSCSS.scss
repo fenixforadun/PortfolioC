@@ -1,0 +1,179 @@
+.space {
+  opacity: 0.9;
+  transform-style: preserve-3d;
+  animation: rotate 10s linear infinite;
+  width: 90vw;
+  height: 90vh;
+  position: absolute;
+  top: 32%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+
+}
+
+$diametre: 85px;
+$largest-radius: 550px;
+
+$element_rotational_speed: 24, 32.2, 44.6, 25.7, 11.9, 27.29, 19.5, 24, 14.8;
+
+@for $i from 1 through 9 {
+
+  .element_orbit:nth-child(#{$i}) {
+
+    $dimensions: $i * $diametre;
+    $top: $largest-radius - ($i * $diametre/2);
+
+    $left: calc(50% - (#{$i} * #{$diametre} / 2));
+
+    $orbital-multiplier: nth($element_rotational_speed, $i);
+
+    border: 1px solid rgba(5, 32, 52, 0.1);
+    width: $dimensions;
+    height: $dimensions;
+    border-radius: 50%;
+    position: absolute;
+    transform-style: preserve-3d;
+    margin-top: $top;
+    margin-left: $left;
+    z-index: 10;
+    animation: orbit-#{$i} $orbital-multiplier*2s linear infinite;
+
+  }
+
+  @keyframes orbit-#{$i} {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
+
+  .element_square:nth-child(#{$i}) {
+
+    $orbital-multiplier: nth($element_rotational_speed, $i);
+
+    width: 71%;
+    height: 71%;
+    position: relative;
+    margin: 0 auto;
+    margin-top: 14.5%;
+    transform-style: preserve-3d;
+
+  }
+
+}
+
+$elements: 'element1', 'element2', 'element3', 'element4', 'element5', 'element6', 'element7', 'element8';
+
+$element_colours: '#222', '#1480AC', '#F9FF9D', '#ff6666', '#534FAC', '#ffd27f', '#b2ffff', '#00b3b3';
+
+$element_diametres: 10, 2.9, 8, 4, 6.7, 8, 1.7, 8.9;
+$counter: 0;
+
+@for $i from 1 through length($elements) {
+
+  $element: nth($elements, $i);
+  $colour: nth($element_colours, $i);
+
+  $dimensions: nth($element_diametres,$i)*5px;
+
+  .#{$element} {
+    width: $dimensions;
+    height: $dimensions;
+    border-radius: 50%;
+    border: 1px solid #{$colour};
+    opacity: 1;
+    margin-top: -$dimensions/2;
+    margin-left: -$dimensions/2;
+  }
+
+  .ring-#{$element} {
+    width: $dimensions + 10px;
+    height: $dimensions + 10px;
+    border-radius: 50%;
+    margin-top: -($dimensions + 10px);
+    margin-left: -($dimensions/2 + 10px);
+    border: 1px solid gray;
+    display: none;
+    opacity: 0.8;
+    animation: ring-orbit 3s linear infinite;
+  }
+
+  .orbit-#{$element} {
+    width: $dimensions + 20px;
+    height: $dimensions + 20px;
+    border-radius: 50%;
+    margin-top: -($dimensions + 10px);
+    margin-left: -($dimensions/2 + 11px);
+    display: none;
+    opacity: 0.8;
+    animation: moon-orbit 10s linear infinite;
+  }
+
+  .moon-#{$element} {
+    width: 6px;
+    height: 6px;
+    display: none;
+    border: 1px solid #999;
+    border-radius: 50%;
+  }
+
+  @keyframes moon-orbit {
+    from {
+      transform: rotate(0);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
+
+  @keyframes ring-orbit {
+    from {
+      transform: rotateX(60deg) rotateY(150deg) rotate(0);
+    }
+    to {
+      transform: rotateX(60deg) rotateY(150deg) rotate(360deg);
+    }
+  }
+
+}
+
+.element_orbit:nth-child(1) {
+
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  border-radius: 50%;
+}
+
+// etc
+
+.orbit-element3 {
+  display: block;
+  box-shadow: none;
+  border: 1px solid rgba(5, 32, 52, 0.1);
+}
+
+.moon-element3 {
+  display: block;
+  border: 1px solid #1e7e34;
+}
+
+.orbit-element8 {
+  display: block;
+}
+
+.moon-element8 {
+  width: 10px;
+  height: 10px;
+  display: block;
+  border: 1px solid #ca06ff;
+
+}
+
+#centerCircle {
+  border-radius: initial;
+  border: none;
+  background: url(../../img/element.png) no-repeat;
+  background-size: contain;
+
+}

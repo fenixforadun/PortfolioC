@@ -1,0 +1,90 @@
+@charset "utf-8";
+
+/*
+font-family: 'Crimson Text', serif;
+font-family: 'Lobster', cursive;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Nanum Gothic', sans-serif;
+font-family: 'Bree Serif', serif;
+font-family: 'Fjalla One', sans-serif;
+font-family: 'EB Garamond', serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Lora', serif;
+font-family: 'Open Sans', sans-serif;
+*/
+
+header, section, footer {user-select: none;}
+
+/* top_btn */
+
+.top_btn {position: fixed; right: 20px; bottom: 20px; background: #ffd400; color: #fff; width: 55px; height: 55px; text-align: center;
+line-height: 55px; cursor: pointer; font-size: 27.5px; z-index: 1002; display: none;}
+
+/* https://www.w3schools.com/bootstrap4/ */
+
+
+/* margin & padding reset */
+
+.container, .container-fluid {padding-right: 0; padding-left: 0; transition: .5s ease-out;}
+.row {margin-right: 0; margin-left: 0;}
+
+html, body {height: 100%;}
+h1, h2, h3, h4, h5, h6, span, a, p, hr, ins, img {transition: .5s ease-out;}
+a:focus, a:hover {text-decoration: none;}
+
+h2 {font-size: 50px;}
+h3 {font-size: 28px;}
+p {font-size: 14px;}
+
+/* nav reset */
+
+.nav-tabs {border-bottom: 0;}
+.nav-tabs .nav-item {margin-bottom: 0;}
+.nav-tabs .nav-link {border: 0; border-top-left-radius: 0; border-top-right-radius: 0;}
+.nav-tabs .dropdown-menu {margin-top: 0;}
+.nav-pills .nav-link {border-radius: 0;}
+
+
+/* tooltip */
+
+.tooltip.bs-tooltip-top .arrow::before, .tooltip.bs-tooltip-auto[x-placement^="top"] .arrow::before {border-top-color: #fff;}
+.tooltip.bs-tooltip-right .arrow::before, .tooltip.bs-tooltip-auto[x-placement^="right"] .arrow::before {border-right-color: #fff;}
+.tooltip.bs-tooltip-bottom .arrow::before, .tooltip.bs-tooltip-auto[x-placement^="bottom"] .arrow::before {border-bottom-color: #fff;}
+.tooltip.bs-tooltip-left .arrow::before, .tooltip.bs-tooltip-auto[x-placement^="left"] .arrow::before {border-left-color: #fff;}
+
+.tooltip-inner {background: #fff; color: #ffcc00; font-size: 24px; font-weight: bold;}
+
+
+
+
+
+
+
+
+
+/* media query */
+
+
+@media screen and (min-width: 1200px) {
+
+}
+
+
+@media screen and (min-width: 992px) and (max-width: 1199px) {
+
+}
+
+@media screen and (min-width: 768px) and (max-width: 991px) {
+
+}
+
+@media screen and (min-width: 576px) and (max-width: 767px) {
+
+}
+
+@media screen and (min-width: 481px) and (max-width: 575px) {
+
+}
+
+@media screen and (max-width: 480px) {
+}

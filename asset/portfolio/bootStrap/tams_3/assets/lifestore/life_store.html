@@ -1,0 +1,640 @@
+<!DOCTYPE html>
+
+<html lang="ko">
+
+<head>
+
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+
+	<!-- bootstrap viewport 4.0
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" /> -->
+
+	<meta http-equiv="X-UA-Compatible" content="ie=edge, chrome=1" />
+	<meta name="author" content="" />
+	<meta name="description" content="" />
+	<meta name="keywords" content="" />
+
+	<title></title>
+
+	<!-- style -->
+
+	<!-- bootstrap css(prime priortiy), 3.3.2 cdn-->
+	<!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap-theme.min.css"> -->
+
+	<link rel="stylesheet" type="text/css" href="../css/bootstrap_3.3.2.css" />
+	<!-- <link rel="stylesheet" type="text/css" href="assets/css/bootstrap-theme_3.3.2.css" />-->
+	<!-- <link rel="stylesheet" type="text/css" href="assets/css/bootstrap_reset.css" /> -->
+
+	<link rel="stylesheet" type="text/css" href="../js/slick/slick.css" />
+	<link rel="stylesheet" type="text/css" href="../js/slick/slick-theme.css" />
+
+	<link rel="stylesheet" type="text/css" href="../css/font-awesome.min.css" />
+	<link rel="stylesheet" type="text/css" href="../css/font-awesome.css" />
+
+	<link rel="stylesheet" type="text/css" href="../css/common.css">
+	<link rel="stylesheet" type="text/css" href="../css/sub_common.css">
+	<link rel="stylesheet" type="text/css" href="css/life_store_style.css" />
+
+	<!-- font-awesome cdn -->
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css" integrity="sha384-lKuwvrZot6UHsBSfcMvOkWwlCMgc0TaWr+30HWe3a4ltaBwTZhyTEggF5tJv8tbt" crossorigin="anonymous">
+
+	<link rel="stylesheet" type="text/css" href="../css/animate.css" />
+
+	<link rel="stylesheet" type="text/css" href="../css/themify-icons.css" />
+	<link rel="stylesheet" type="text/css" href="../css/themify-icons_ie7.css" />
+
+
+	<!-- webfont -->
+
+	<!-- <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" />-->
+	<link href="https://fonts.googleapis.com/css?family=Nanum+Gothic" rel="stylesheet" />
+	<!-- <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" />
+	<link href="https://fonts.googleapis.com/css?family=Bree+Serif" rel="stylesheet" />
+	<link href="https://fonts.googleapis.com/css?family=Fjalla+One" rel="stylesheet" />
+	<link href="https://fonts.googleapis.com/css?family=EB+Garamond" rel="stylesheet" />
+	<link href="https://fonts.googleapis.com/css?family=Black+Han+Sans" rel="stylesheet"> -->
+	<link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet" />
+	<!-- favicon -->
+
+	<link href="../favicon/favicon.ico" rel="icon" type="image/x-icon" />
+	<link rel="shortcut icon" type="image/x-icon" href="../favicon/favicon.ico" />
+
+	<!-- script -->
+
+	<!--  jquery cdn
+	<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>  -->
+
+	<!-- bootstrap cdn 3.3.2
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script> -->
+
+	<script type="text/javascript" src="../js/jquery-3.3.1.min.js"></script>
+	<script type="text/javascript" src="../js/jquery-ui.min.js"></script>
+	<script type="text/javascript" src="../js/jquery-migrate-1.4.1.min.js"></script>
+	<script type="text/javascript" src="../js/jquery.easing.1.3.js"></script>
+	<script type="text/javascript" src="../js/prefixfree.min.js"></script>
+
+	<script type="text/javascript" src="../js/bootstrap_3.3.2.min.js"></script>
+
+	<script type="text/javascript" src="../js/wow.min.js"></script>
+	<script type="text/javascript" src="../js/parallax.min.js"></script>
+	<script type="text/javascript" src="../js/slick/slick.min.js"></script>
+
+	<!-- <script type="text/javascript" src="../js/video.js"></script>
+	<script type="text/javascript" src="../js/index.js"></script> -->
+
+
+	<!-- compatibility (혹시 모를 충돌을 대비하기 위해 body 최하단에 위치)-->
+
+	<script type="text/javascript" src="../js/ie-checker-min.js"></script>
+	<script type="text/javascript" src="../js/modernizr.js"></script>
+	<script type="text/javascript" src="../js/respond.min.js"></script>
+
+
+	<!--[if lt IE 8]>
+		<script type="text/javascript" src="../js/themify-icons_ie7.js"></script>
+	<![endif]-->
+
+	<!--[if lt IE 9]>
+		<script src="../js/html5shiv.min.js"></script>
+	<![endif]-->
+
+
+	<script type="text/javascript">
+		//<![CDATA[
+		//]]>
+	</script>
+
+</head>
+
+<!-- // head -->
+
+<body>
+
+	<!--[if lt IE 9]>
+	<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+	<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+   <![endif]-->
+
+   <div class="top_btn"><i class="fas fa-arrow-up"></i></div>
+
+	<header>
+	  <nav class="navbar navbar-inverse mainNav">
+	    <div class="container-fluid">
+	      <div class="navbar-header">
+	        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#colNav">
+	          <span class="icon-bar"></span>
+	          <span class="icon-bar"></span>
+	          <span class="icon-bar"></span>
+	        </button>
+
+	        <a href="../../index.html" class="navbar-brand logo">
+	          <img src="../common/gnb_logo7.png" alt="Logo" />
+	        </a>
+	      </div>
+
+	      <div class="collapse navbar-collapse" id="colNav">
+	        <ul class="nav navbar-nav" id="lnb">
+	          <li class="dropdown">
+	            <a href="#" class="dropdown-toggle" data-toggle="dropdown">메뉴 <span class="caret"></span></a>
+
+	            <ul class="dropdown-menu">
+	              <li><a href="../menu/menu.html" target="_self">신메뉴</a></li>
+	              <li><a href="../menu/menu.html" target="_self">추천메뉴</a></li>
+	              <li><a href="../menu/menu.html" target="_self">메뉴찾기</a></li>
+	            </ul>
+	          </li>
+
+	          <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">이벤트 <span class="caret"></span></a>
+
+	            <ul class="dropdown-menu">
+	              <li><a href="#" target="_self">진행 이벤트</a></li>
+	              <li><a href="#" target="_self">매장 이벤트</a></li>
+	              <li><a href="#" target="_self">종료 이벤트</a></li>
+	              <li><a href="#" target="_self">공모전</a></li>
+	            </ul>
+	          </li>
+
+	          <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">매장 <span class="caret"></span></a>
+
+	            <ul class="dropdown-menu">
+	              <li><a href="#" target="_self">신규매장 검색</a></li>
+	              <li><a href="#" target="_self">지역별 매장 검색</a></li>
+	              <li><a href="#" target="_self">해외매장 검색</a></li>
+	            </ul>
+	          </li>
+
+	          <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">서비스 <span class="caret"></span></a>
+	            <ul class="dropdown-menu">
+	              <li><a href="#" target="_self">마이탐 멤버쉽</a></li>
+	              <li><a href="#" target="_self">마이탐 선불카드</a></li>
+	              <li><a href="../card/card.html" target="_self">제휴할인</a></li>
+	              <li><a href="../card/card.html" target="_self">기프트 카드</a></li>
+	              <li><a href="../rental/rental.html" target="_self">탐탐렌탈 서비스</a></li>
+	              <li><a href="../rental/rental.html" target="_self">푸드트럭 / 케이터링</a></li>
+	              <li><a href="#" target="_self">탐스 라이프스토어</a></li>
+	            </ul>
+	          </li>
+
+	          <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">문화 <span class="caret"></span></a>
+	            <ul class="dropdown-menu">
+	              <li><a href="#" target="_self">탐앤탐스 소식</a></li>
+	              <li><a href="#" target="_self">예술문화 후원활동</a></li>
+	              <li><a href="#" target="_self">사회복지 후원활동</a></li>
+	              <li><a href="#" target="_self">탐스 아카데미</a></li>
+	              <li><a href="#" target="_self">소셜 탐앤탐스</a></li>
+	              <li><a href="#" target="_self">고객만족센터</a></li>
+	            </ul>
+	          </li>
+
+	          <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">소개 <span class="caret"></span></a>
+	            <ul class="dropdown-menu">
+	              <li><a href="../brand/brand_information.html" target="_self">회사 소개</a></li>
+	              <li><a href="#" target="_self">프랜차이즈</a></li>
+	              <li><a href="#" target="_self">채용 안내</a></li>
+	              <li><a href="#" target="_self">찾아오시는 길</a></li>
+	            </ul>
+	          </li>
+
+	        </ul>
+
+	        <ul class="nav navbar-nav navbar-right" id="gnb">
+	          <li><a href="#" target="_self" class="login">로그인</a></li>
+	          <li><a href="#" target="_self" class="find_store">매장 찾기</a></li>
+	          <li><a href="#" target="_self" class="franchise">가맹점 문의</a></li>
+	        </ul>
+	      </div>
+	    </div>
+	  </nav>
+	</header>
+
+<!--// header -->
+
+	<section>
+		<div class="container-fluid mainBanner life_store_mainBanner">
+			<div class="life_mainBanner_title mainBanner_title">
+				<h1>SERVICE <span>TOM N TOMS</span></h1>
+				<a href="#" target="_self">탐앤탐스 라이프 스토어</a>
+			</div>
+		</div>
+	</section>
+
+<!-- // header-banner -->
+
+	<section>
+		<div class="container-fluid siteguide">
+			<div class="container siteguide_area">
+				<ul>
+					<li><a href="../../index.html" target="_self" lang="en">HOME</a></li>
+					<li>&gt;</li>
+					<li><a href="#" target="_self" lang="en">SERVICE</a></li>
+					<li>&gt;</li>
+					<li><a href="#" target="_self">탐스 라이프스토어</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+
+<!-- // siteguide -->
+
+	<section>
+		<div class="container-fluid ls_introduce introduce">
+			<div class="container ls_introduce_area introduce_area">
+				<h2>탐스 라이프 스토어</h2>
+			</div>
+
+			<div class="container store_area">
+
+				<div class="row store_01 storetxt">
+					<div class="col-md-4 col-sm-4 col-xs-12 xs-content">
+						<div class="line-txt">
+							<img src="img/linebg.png" alt="line-background" class="img-responsive" />
+							<div class="title-txt">
+								<h3>탐스 라이프 스토어</h3>
+							</div>
+						</div>
+
+						<div class="txt-btn">
+							<a href="#" target="_self">탐스 라이프 스토어 바로가기<i class="far fa-arrow-alt-circle-right" aria-hidden="true"></i>
+							</a>
+						</div>
+
+					</div>
+
+					<div class="col-md-8 col-sm-8 col-xs-8 xs-content_txt">
+						<h4>Multi Brand Flagship Store</h4>
+						<p>한국 대표 커피 프랜차이즈 ‘TOM N TOMS COFFEE’에서 운영하는 국내 최초 커피머신 플래그쉽 스토어인 ‘TOMS LIFE STORE’는 다양한 커피머신, 원두, 파드커피를 수입·제작하여 유통합니다. ‘TOMS LIFE STORE’는 다양한 브랜드의 제품을 보유하고 있어 홈카페, 오피스카페, 카페 창업 등 소비자의 요구에 가장 적합한 솔루션을 제공합니다.</p>
+
+						<h4>Provides the Highest and the Best Coffee Culture</h4>
+						<p>‘TOMS LIFE STORE’는 커피와 디저트를 즐기며 커피머신을 비롯해 커피 기구를 체험하고 다양한 원두와 파드커피를 경험할 수 있는 창고형 카페인 ‘TOM N TOMS the STORAGE’를 운영합니다. 커피 애호가를 위한 수준 높은 커피 클래스를 운영하며 최고의 커피 문화 공간을 제공합니다.</p>
+					</div>
+				</div>
+
+				<div class="row store_02 storeimg">
+					<img src="img/lifestore_img01.jpg" alt="lifestore_img01" class="img-responsive" />
+				</div>
+
+				<div class="row store_03 storetxt">
+					<div class="col-md-4 col-sm-4 col-xs-12 xs-content">
+						<div class="line-txt">
+							<img src="img/linebg.png" alt="line-background" class="img-responsive" />
+
+							<div class="title-txt">
+								<h3>아스카소</h3>
+							</div>
+						</div>
+					</div>
+
+					<div class="col-md-8 col-sm-8 col-xs-8 xs-content_txt">
+						<h4>Artisan Coffee Machines</h4>
+						<p>‘부품에 대한 우리의 넓은 지식에 에스프레소 문화를 곁들여 장인 정신(ARTISAN)으로 만든 커피머신을 전세계에 전파함’ 100% 핸드메이드로 커피머신을 생산해내는 아스카소의 슬로건. 스페인 바르셀로나에서 시작해 오랜 역사와 전통을 지닌 아스카소는 효율성, 신뢰성, 지속성, 편리성, 안전성, 영원한 제품이라는 브랜드 철학으로 커피머신을 제작하고 있습니다. ‘ASCASO Factory S.L.U’는 1962년부터 현재까지 60여 년 동안 커피머신과 부품생산에 전념하며 전세계 70개국, 1,000개 이상의 회사에 제품을 공합하고 있습니다.</p>
+
+						<h4>For Coffee Lovers</h4>
+						<p>아스카소는 끊임없는 연구와 노력을 통해 감각적인 디자인, 탄탄한 기술력, 그리고 합리적인 가격으로 가정과 회사를 위한 전문적인 커피머신을 제작하여 유럽을 비롯한 전 세계 커피 애호가들의 사랑을 받고 있습니다.</p>
+
+						<h4>ASCASO with TOMS LIFE STORE</h4>
+						<p>‘TOMS LIFE STORE’는 스페인 ‘ASCASO’의 한국 총판으로, 독점적으로 아스카소의 모든 제품을 국내로 수입, 유통합니다. 오랜 기간 해외 직구나 구매대행으로 아스카소 제품을 구매해왔던 국내의 커피 애호가에게 다양한 선택, 빠르고 편리한 구매, 완벽한 품질 보증과 특별한 서비스를 제공합니다.</p>
+
+					</div>
+				</div>
+
+				<div class="row store_04 storeimg">
+					<img src="img/lifestore_img02.jpg" alt="lifestore_img02" class="img-responsive" />
+				</div>
+
+				<div class="row store_05 storetxt">
+					<div class="col-md-4 col-sm-4 col-xs-12 xs-content">
+						<div class="line-txt">
+							<img src="img/linebg.png" alt="line-background" class="img-responsive" />
+
+							<div class="title-txt">
+								<h3>라피콜라</h3>
+							</div>
+						</div>
+
+					</div>
+
+					<div class="col-md-8 col-sm-8 col-xs-8 xs-content_txt">
+						<h4>Paper Pods Espresso Coffee Machines</h4>
+						<p>라피콜라는 파드커피의 맛을 최대로 표현하기 위하여 오랜 연구 끝에 탄생한 파드커피머신 브랜드입니다. 컴팩트한 사이즈, 스테인레스 외관의 심플하고 고급스러운 디자인, 그리고 파드커피를 단번에 추출해내는 20bar의 강한 압력을 자랑합니다.</p>
+
+						<h4>100% Made in Italy</h4>
+						<p>라피콜라는 공장 자동화 방식이 아닌 핸드메이드 수공 방식으로 커피 머신 제작의 모든 과정을 100% 이탈리아에서 진행합니다. 친환경적이며 지속가능한 제품을 만들고자하는 라피콜라의 신념은 우수한 기술을 바탕으로 머신의 내구성과 품질을 높일 뿐 아니라 환경 오염을 최소화 합니다.</p>
+
+						<h4>LA PICCOLA with TOMS LIFE STORE</h4>
+						<p>“TOMS LIFE STORE’는 이탈리아 ‘LA PICCOLA’의 한국 총판으로, 라피콜라 제품을 국내에 처음 선보입니다. 파드커피 전용 머신인 라피콜라는 경제성, 편리성, 안전성, 친환경성을 추구합니다. 또한 뛰어난 성능으로 커피 애호가들에게 맛있는 에스프레소를 제공합니다.</p>
+					</div>
+				</div>
+
+				<div class="row store_06 storeimg">
+					<img src="img/lifestore_img03.jpg" alt="lifestore_img03" class="img-responsive" />
+				</div>
+
+				<div class="row store_07 storetxt">
+					<div class="col-md-4 col-sm-4 col-xs-12 xs-content">
+						<div class="line-txt">
+							<img src="img/linebg.png" alt="line-background" class="img-responsive" />
+
+							<div class="title-txt">
+								<h3>루카페</h3>
+							</div>
+						</div>
+
+					</div>
+
+					<div class="col-md-8 col-sm-8 col-xs-8 xs-content_txt">
+						<h4>The Culture of Quality Made in Italy</h4>
+						<p>루카페는 끊임없이 새롭게 시도하고 도전하는 이탈리아 최고의 로스팅 회사입니다. 단순히 원두를 판매하는 것에 그치지 않고, 종이 파드에 분쇄된 원두를 담은 파드커피를 제작해 가정이나 회사 뿐 아니라 레스토랑과 카페에서도 널리 사랑받아 설립 15년만에 연 2억4000만개의 파드커피를 생산하며 빠르게 성장하고 있습니다.</p>
+
+						<h4>The Espresso Made with the Heart</h4>
+						<p>루카페는 한 잔의 완벽한 에스프레소를 위해 원두의 선택부터 운반, 블랜딩, 로스팅, 그라인딩, 포장까지 모든 과정에서 최고의 노력을 합니다. 루카페는 좋은 품질의 생두를 얻기 위하여 매 해 생산지를 직접 방문하며, 각 생두의 풍미를 살리는 로스팅과 루카페만의 블랜딩을 통해 이탈리아 뿐 아니라 세계 곳곳에서 마니아층을 형성하고 있습니다.</p>
+
+						<h4>LUCAFFE with TOMS LIFE STORE</h4>
+						<p>‘TOMS LIFE STORE’는 이탈리아 ‘LUCAFFE’의 한국 총판으로, 독점적으로 루카페의 모든 원두와 파드커피를 국내로 수입, 유통합니다. 탐스 라이프 스토어는 다양한 원두 선택을 제공하고 복잡한 유통 과정을 줄여 국내의 커피 애호가들에게 이탈리아 에스프레소의 신선한 맛을 그대로 전하고자 합니다.</p>
+					</div>
+				</div>
+
+				<div class="row store_08 storeimg">
+					<img src="img/lifestore_img04.jpg" alt="lifestore_img04" class="img-responsive" />
+				</div>
+
+			</div>
+
+		</div>
+	</section>
+
+
+	<footer>
+		<div class="container-fluid footer_lnb">
+			<div class="container lnb_area">
+				<div class="row lnb_area_row">
+
+					<div class="col-md-2 col-sm-2 col-xs-6">
+						<ul class="nav navbar-nav">
+							<li class="ft_lnb_title dropdown">
+								<a href="javascript:void(0)" target="_self" class="dropdown-toggle" data-toggle="collapse" data-target="#menu">
+									<h4 class="f600">메뉴</h4>
+								</a>
+
+								<div class="collapse navbar-collapse" id="menu">
+									<ul class="nav navbar-nav">
+										<li><a href="#" target="_self">신메뉴</a></li>
+										<li><a href="#" target="_self">추천메뉴</a></li>
+										<li><a href="#" target="_self">메뉴찾기</a></li>
+									</ul>
+								</div>
+							</li>
+
+						</ul>
+					</div>
+					<div class="col-md-2 col-sm-2 col-xs-6">
+						<ul class="nav navbar-nav">
+							<li class="ft_lnb_title dropdown">
+								<a href="javascript:void(0)" target="_self" class="dropdown-toggle" data-toggle="collapse" data-target="#event">
+									<h4 class="f600">이벤트</h4>
+								</a>
+
+								<div class="collapse navbar-collapse" id="event">
+									<ul class="nav navbar-nav">
+										<li><a href="#" target="_self">진행중 이벤트</a></li>
+										<li><a href="#" target="_self">매장별 이벤트</a></li>
+										<li><a href="#" target="_self">종료된 이벤트</a></li>
+										<li><a href="#" target="_self">공모전</a></li>
+									</ul>
+								</div>
+
+							</li>
+
+						</ul>
+					</div>
+					<div class="col-md-2 col-sm-2 col-xs-6">
+						<ul class="nav navbar-nav">
+							<li class="ft_lnb_title dropdown">
+								<a href="javascript:void(0)" target="_self" class="dropdown-toggle" data-toggle="collapse" data-target="#store">
+									<h4 class="f600">매장</h4>
+								</a>
+
+								<div class="collapse navbar-collapse" id="store">
+
+									<ul class="nav navbar-nav">
+										<li><a href="#" target="_self">신규매장 소개</a></li>
+										<li><a href="#" target="_self">국내매장 찾기</a></li>
+										<li><a href="#" target="_self">글로벌 <span>매장 찾기</span></a></li>
+									</ul>
+
+								</div>
+
+							</li>
+
+						</ul>
+					</div>
+					<div class="col-md-2 col-sm-2 col-xs-6">
+						<ul class="nav navbar-nav">
+							<li class="ft_lnb_title dropdown">
+								<a href="javascript:void(0)" target="_self" class="dropdown-toggle" data-toggle="collapse" data-target="#service">
+									<h4 class="f600">서비스</h4>
+								</a>
+
+								<div class="collapse navbar-collapse" id="service">
+
+									<ul class="nav navbar-nav">
+										<li><a href="#" target="_self">마이탐 멤버쉽</a></li>
+										<li><a href="#" target="_self">마이탐 <span>선불카드</span></a></li>
+										<li><a href="#" target="_self">제휴할인</a></li>
+										<li><a href="#" target="_self">기프트 카드</a></li>
+										<li><a href="#" target="_self">탐탐 <span>렌탈서비스</span></a></li>
+										<li><a href="#" target="_self">푸드트럭/<span>케이터링</span></a></li>
+									</ul>
+								</div>
+							</li>
+						</ul>
+					</div>
+					<div class="col-md-2 col-sm-2 col-xs-6">
+						<ul class="nav navbar-nav">
+							<li class="ft_lnb_title dropdown">
+								<a href="javascript:void(0)" target="_self" class="dropdown-toggle" data-toggle="collapse" data-target="#culture_tab">
+									<h4 class="f600">문화</h4>
+								</a>
+
+								<div class="collapse navbar-collapse" id="culture_tab">
+
+									<ul class="nav navbar-nav">
+										<li><a href="#" target="_self">탐앤탐스 소식</a></li>
+										<li><a href="#" target="_self">예술문화 <span>후원활동</span></a></li>
+										<li><a href="#" target="_self">사회복지 <span>후원활동</span></a></li>
+										<li><a href="#" target="_self">탐스아카데미</a></li>
+										<li><a href="#" target="_self">소셜 탐앤탐스</a></li>
+										<li><a href="#" target="_self">고객만족센터</a></li>
+									</ul>
+
+								</div>
+
+							</li>
+						</ul>
+					</div>
+					<div class="col-md-2 col-sm-2 col-xs-6">
+						<ul class="nav navbar-nav">
+							<li class="ft_lnb_title dropdown">
+								<a href="javascript:void(0)" target="_self" class="dropdown-toggle" data-toggle="collapse" data-target="#introduce">
+									<h4 class="f600">소개</h4>
+								</a>
+
+								<div class="collapse navbar-collapse" id="introduce">
+
+								<ul class="nav navbar-nav">
+									<li><a href="../brand/brand_information.html" target="_self">회사소개</a></li>
+									<li><a href="#" target="_self">프렌차이즈</a></li>
+									<li><a href="#" target="_self">채용 안내</a></li>
+									<li><a href="#" target="_self">찾아오시는 길</a></li>
+								</ul>
+								</div>
+							</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="footer_gnb">
+			<nav class="navbar navbar-inverse">
+				<div class="container-fluid footer_gnb_area">
+					<div class="navbar-header">
+						<a href="../../index.html" class="navbar-brand ft_logo f800" lang="en">tom n toms coffee</a>
+					</div>
+
+					<ul class="nav navbar-nav">
+						<li><a href="#" target="_self">개인정보 보호정책</a></li>
+						<li><a href="#" target="_sefl">이용약관</a></li>
+					</ul>
+
+					<ul class="nav navbar-nav navbar-right sns">
+						<li><a href="#" target="_self"><i class="fab fa-facebook" aria-hidden="true"></i></a></li>
+						<li><a href="#" target="_self"><i class="fab fa-instagram" aria-hidden="true"></i></a></li>
+						<li><a href="#" target="_self"><i class="fas fa-quote-right" aria-hidden="true"></i></a></li>
+						<li><a href="#" target="_self"><i class="fas fa-coffee" aria-hidden="true"></i></a></li>
+						<li><a href="#" target="_self"><i class="fab fa-youtube" aria-hidden="true"></i></a></li>
+					</ul>
+				</div>
+			</nav>
+		</div>
+
+		<div class="admin_ft_lnb container-fluid">
+			<div class="container ft_lnb_area">
+				<div class="row ft_lnb_row">
+					<div class="col-md-12 col-sm-12">
+						<ul class="ft_lnb_nav list-unstyled">
+							<li><a href="../brand/brand_information.html" target="_self">회사소개</a></li>
+							<li>&#124;</li>
+							<li><a href="#" target="_self">채용안내</a></li>
+							<li>&#124;</li>
+							<li><a href="#" target="_self">프랜차이즈</a></li>
+							<li>&#124;</li>
+							<li><a href="#" target="_self">계열사 소개</a></li>
+							<li>&#124;</li>
+							<li><a href="#" target="_self">공지사항</a></li>
+							<li>&#124;</li>
+							<li><a href="#" target="_self">고객만족센터</a></li>
+							<li>&#124;</li>
+							<li><a href="#" target="_self">찾아오시는 길</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="container-fluid admin_copyright_bg">
+			<div class="admin_copyright container">
+				<div class="row admin_copyright_area">
+					<div class="col-md-1 hidden-sm hidden-xs">
+						<img src="../common/gnb_logo7.png" alt="footer_logo" class="img-responsive"/>
+					</div>
+
+					<div class="col-md-11 col-sm-11 col-xs-12">
+						<div class="copyright">
+							<p>서울 특별시 강남구 논현로 173번길 10 앨리트빌딩 3F(구:신사동 570-6)</p>
+							<p>대표자 : 홍길동&nbsp;|&nbsp;사업자등록번호 : 123-12-123456 Tel : 02-1234-5678&nbsp;|&nbsp;Fax : 02-1234-5678</p>
+							<p>Copyright(c) 2018 tom n toms coffe. all rights reserved.</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</footer>
+
+<!--// footer -->
+
+<script type="text/javascript">
+	// top_btn
+
+	//<![CDATA[
+
+	 $(window).scroll(function(){
+
+		if($(this).scrollTop() > 50){
+			$(".top_btn").fadeIn(500);
+
+		}else{
+			$(".top_btn").fadeOut(500);
+
+		}
+	});
+
+	$(".top_btn").click(function(){
+		$("html").animate({scrollTop : 0}, 500);
+	});
+
+	//]]>
+
+  </script>
+
+<script type="text/javascript">
+
+  //<![CDATA[
+
+	$('.parallax-window').parallax();
+
+	/* $('.parallax-window').parallax({scale: '5.30', orientation: 'down', delay: '0.6'}); */
+
+	new WOW().init();
+
+  //]]>
+
+  </script>
+
+  <script type="text/javascript">
+
+    //<![CDATA[
+
+    $(document).ready(function(){
+      $('#slide_banner').slick({
+
+      // 슬라이드하고자 하는 이미지의 부모를 지정
+
+      slidesToShow: 1,
+      autoplay: true,
+      autoplaySpeed: 4000,
+      fade: true,
+      draggable: true,
+      cssEase: 'ease-out',
+      easing: 'ease-out',
+      pauseOnFocus: true,
+      pauseOnHover: true,
+      speed: 3000,
+      swipe: true,
+      useCSS: true,
+      dots: true
+        });
+    });
+
+    //]]>
+
+  </script> -->
+
+
+
+</body>
+
+
+
+</html>

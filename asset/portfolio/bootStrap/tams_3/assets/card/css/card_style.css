@@ -1,0 +1,209 @@
+@charset "utf-8";
+
+/* font-family: 'Black Han Sans', 'Glyphicons Halflings', 'Crimson Text', serif, sans-serif;
+font-family: 'Nanum Gothic', sans-serif; */
+
+
+/* mainbanner */
+
+.card_mainBanner {background-image: url(../img/cardbg.png);}
+
+.introduce_area h2 {margin-top: 0;}
+
+/* nav reset */
+
+.nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus {border: 0; cursor: pointer;
+	border-radius: 0; background: transparent;}
+.nav-tabs > li {margin-bottom: 0;}
+
+
+/* card */
+
+.card_introduce {background: #fff;}
+
+.card_area {padding-right: 0; padding-left: 0;}
+.card_tab_area {}
+
+.card_tab_menu {border: 1px solid #ddd; margin-bottom: 50px;}
+.card_tab_menu li {width: 50%; display: inline-block;}
+.card_tab_menu li a {text-align: center; color: #707070; background: #f9f9f9; margin-right: 0; border: 0; font-size: 18px;
+letter-spacing: 1px;}
+
+.card_tab_menu li.active a,
+.card_tab_menu li.active a:hover,
+.card_tab_menu li.active a:focus {color: #fff; background: #8c0c04; font-weight: bold;}
+
+.card_tab_title_01 {padding-left: 30px;}
+.card_tab_title_01 h3 {font-size: 20px; font-weight: bold;}
+.card_tab_title_01:after {content: ""; display: block; width: 100%; height: 2px; background: #000; margin-bottom: 30px;}
+
+.card_tab_content_01 > .row:not(.card_tab_title_01) {padding-left: 100px; border-bottom: 1px dotted #ccc; padding-bottom: 40px;
+margin-bottom: 50px;}
+
+.tab_img {display: table; height: 100%;}
+.tab_img a {display: table-cell; vertical-align: middle; height: 100%;}
+.tab_img a img {display: block; margin: 0 auto;}
+.tab_img a img:hover {transform: scale(1.2)}
+
+.tab_desc {padding-left: 60px; padding-right: 0;}
+.tab_desc h4 {font-size: 18px; color: #8c0c04; font-weight: bold; margin-top: 0; margin-bottom: 0;}
+.tab_desc h4 > span {font-weight: bold; color: red; letter-spacing: 1px; padding-right: 10px;}
+.tab_desc_txt ul {border-top: 1px solid #ccc; background: #f9f9f9; margin-top: 20px; padding: 20px 0 20px 20px;}
+.tab_desc_txt ul li {color: #707070; padding-bottom: 3px;}
+.tab_desc_txt ul li > span {padding-right: 5px;}
+.tab_desc_txt ul li.none_bullet {padding-left: 20px; margin-top: -3px;}
+
+.shortcut_btn {text-align: right; margin-top: 30px;}
+.shortcut_btn a {color: #000; padding: 8px 20px; border: 1px solid #ccc;}
+.shortcut_btn a:hover {background: #8c0c04; color: #fff; text-decoration: none; font-weight: bold;}
+.shortcut_btn a:focus {text-decoration: none;}
+.shortcut_btn a i {padding-left: 7px;}
+
+.card_tab_content_01 > .row.tab_row_03 {margin-bottom: 10px;}
+.card_tab_content_01 > .row.card_tab_sub {border-bottom: 0; padding: 0 0 0 30px;}
+
+
+#card_menu_02 {}
+.card_tab_content_01 {padding-left: 0; padding-right: 0;}
+.card_tab_content_02 {}
+.card_tab_content_02 h3 {font-size: 20px; font-weight: bold;}
+.card_tab_content_02 h3 img {display: inline-block; vertical-align: top; padding-right: 10px;}
+
+.card_tab_title_02 {}
+.card_tab_title_02 > p {padding: 0 30px;}
+
+.card_tab_content_card_list {margin: 50px 0;}
+.card_tab_content_card_list img:hover {transform: scale(1.2)}
+
+.card_tab_content_02 .row:not(.card_tab_content_card_list) div {border-top: 2px solid #000; margin-top: 10px;
+	border-bottom: 1px solid #ccc;}
+
+.card_tab_content_02 .row .col-md-5, .card_tab_content_02 .row .col-md-7 {padding-right: 0; padding-left: 0;}
+
+.card_tab_content_02 .row {margin-bottom: 50px;}
+
+.card_tab_content_02 .row ul {margin-bottom: 0; text-align: center;}
+.card_tab_content_02 .row ul li {padding: 20px 0;}
+.card_tab_content_02 .row ul li:nth-of-type(1) {background: #f2f2f2; border-bottom: 1px solid #ccc;}
+.card_tab_content_02 .row ul li:nth-of-type(2) {}
+.card_tab_content_02 .row ul li h4 {margin: 0; font-size: 20px; font-weight: bold;}
+.card_tab_content_02 .row ul li p {margin: 0; color: #707070;}
+
+
+.store_buy, .direct_store {border-right: 1px solid #ccc;}
+.card_caution h3, .card_disabled h3 {margin-bottom: 30px;}
+.card_caution p, .card_disabled p {padding: 0 30px;}
+
+
+
+
+
+/* slide_banner */
+
+#slide_banner {padding-right: 0; padding-left: 0;}
+.slide_container {position: relative;}
+.slide_title {position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 35%;}
+.slide_title h2 {color: #fc0; font-size: 28px; text-transform: uppercase; margin-bottom: 20px; font-weight: bold; letter-spacing: 2px;}
+.slide_title p {color: #fff; font-size: 16px; margin-bottom: 10px;}
+.slide_title p:last-child {margin-bottom: 0;}
+
+/* slick */
+
+.slick-arrow {display: none !important;}
+.slick-dots {bottom: 40px;}
+.slick-dots li button:before {color: #999;}
+.slick-dots li.slick-active button:before {color: #fc0;}
+.slick-dotted.slick-slider {margin-bottom: 0;}
+
+
+
+@media screen and (max-width: 1600px) {
+
+  .slide_title {width: 55%;}
+  .slide_title h2 {margin-top: 0;}
+
+}
+
+@media screen and (max-width: 1360px) {
+
+
+
+}
+
+@media screen and (max-width: 1199px) {
+
+}
+
+@media screen and (max-width: 1085px) {
+
+  .slide_title p {margin: 0;}
+
+}
+
+@media screen and (max-width: 1024px) {
+
+	.tab_img {padding-right: 0; padding-left: 0;}
+	.card_tab_content_01 > .row:not(.card_tab_title_01) {padding-left: 60px;}
+
+}
+
+@media screen and (max-width: 992px) {
+
+	.card_tab_title_01 {padding-left: 15px;}
+
+  /* slide_banner */
+
+  .slide_title {width: 65%; top: 45%;}
+
+
+}
+
+@media screen and (max-width: 768px) {
+
+	.mainBanner_title h1 span {display: block;}
+
+	.card_tab_area{width: 98%; margin: 0 auto;}
+	.card_tab_title_01 {padding-left: 15px; padding-right: 15px;}
+	.card_tab_content_01 > .row:not(.card_tab_title_01) {padding-left: 15px; padding-right: 15px;}
+	.tab_img {padding-bottom: 50px;}
+	.tab_desc {padding-left: 0;}
+
+	.card_tab_sub {text-align: center;}
+	.card_tab_sub strong span {display: block;}
+
+	.card_tab_content_02 .row:not(.card_tab_content_card_list) div {margin-bottom: 30px;}
+	.card_tab_content_02 .row {margin-bottom: 20px;}
+
+
+
+
+}
+
+@media screen and (max-width: 640px) {
+
+
+
+}
+
+@media screen and (max-width: 480px) {
+
+	.tab_desc_txt ul {padding: 20px 0 20px 10px;}
+	.tab_desc_txt ul li {font-size: 12px;}
+	.card_tab_sub p {font-size: 12px;}
+
+	.card_tab_content_02 .row {margin-bottom: 0;}
+	.card_tab_content_card_list div.col-xs-12 {margin-bottom: 20px;}
+	.card_tab_content_card_list div.col-xs-12 a img {margin: 0 auto; width: 100%;
+
+	}
+
+
+
+
+  /* slide_banner */
+
+  .slide_title p {display: none;}
+  .slick-slide img {min-height: 200px;}
+
+
+}

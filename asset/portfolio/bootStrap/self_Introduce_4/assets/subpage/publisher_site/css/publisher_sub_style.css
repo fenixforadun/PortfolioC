@@ -1,0 +1,320 @@
+@charset "utf-8";
+
+/*
+font-family: 'Crimson Text', serif;
+font-family: 'Lobster', cursive;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Nanum Gothic', sans-serif;
+font-family: 'Bree Serif', serif;
+font-family: 'Fjalla One', sans-serif;
+font-family: 'EB Garamond', serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Lora', serif;
+font-family: 'Open Sans', sans-serif;
+*/
+
+ins {background: #ffcc00;}
+
+
+/* top main */
+
+.topmain:before {background-image: url(../../publisher/publisher_img/bg/topbg.png);}
+.topmain-wrap > span {color: #999;}
+
+
+
+/* web */
+
+.web_container {margin-bottom: 30px;}
+
+.webtitle h3 span.sub_h3 {font-size: 12px; letter-spacing: 0;}
+.webtitle > span.Open_sans {display: block;}
+.webtitle > p .under-line {font-weight: bold;}
+
+
+/* web grid */
+
+.web_grid {padding: 30px 0; border-bottom: 1px dotted #ccc; background: rgba(204, 204, 204, 0.9);}
+
+.web_grid_container {margin-bottom: 30px;}
+
+.web_grid_container .web_grid_title {margin-bottom: 60px;}
+.web_grid_container .web_grid_title h4 {font-weight: bold; text-transform: uppercase; letter-spacing: 10px; margin-bottom: 1rem;}
+.web_grid_container .web_grid_title h4 span {display: inline; padding: 0 15px;}
+
+.web_grid_container .web_grid_title p {color: #888; font-weight: 600; margin-bottom: 0.5rem;}
+.web_grid_container .web_grid_title p.web_grid_title_p_bg {background: #fc0; display: inline-block;}
+
+
+/* web grid img */
+
+
+.web_grid_img {height: 100%;}
+.web_grid_img > div {transition: .5s ease;}
+.web_grid_img > div img {margin: auto;}
+.web_grid_img_right {padding: 15px 15px 25px 15px;}
+.web_grid_img_right img {height: 100%;}
+
+.web_grid_sub_img {margin: 60px 0 30px;}
+.grid_icon {max-width: 110px; margin-right: 15px; transition: .5s ease;}
+.grid_icon img {min-width: 110px; transition: .5 ease;}
+
+.grid_sub_content {}
+.grid_sub_content h6 {margin-bottom: 0; margin-top: 15px; text-transform: uppercase; color: #888; letter-spacing: 1px;}
+.grid_sub_content h6 > span {text-transform: none; color: #000; letter-spacing: 0;}
+
+
+/* access */
+
+.access {margin: 0 60px 0 0; background: #fff; padding-top: 60px;}
+
+.access_container {}
+
+/* access title */
+
+
+.access_title_row {padding-bottom: 15%;}
+.access_title_content {padding: 0; position: relative;}
+.access_title_content > h4 {font-size: 20px; font-style: italic; padding-left: 15px;}
+.access_title_content .progress {margin-left: 20px; background-color: transparent; opacity: .3; transition: .5s ease;}
+.access_title_content .progress-bar {background-color: transparent; height: 10px;}
+.access_title_content .progress-bar-striped {background-image: linear-gradient(-45deg, rgba(0, 0, 0, 0.5) 25%, transparent 25%, transparent 50%, rgba(0, 0, 0, 0.5) 50%, rgba(0, 0, 0, 0.5) 75%, transparent 75%, transparent); background-size: 5px 5px;}
+
+.access_title_content > p {margin-top: 60px; font-weight: bold; font-size: 16px;}
+.access_title_content > p span {display: inline-block; background: #000; color: #fff; padding: 0 5px; margin-left: 10px;
+font-weight: normal; letter-spacing: 1px;}
+
+.transparent_txt {text-align: right; position: absolute; top: 55%; right: 0; opacity: .4;}
+.transparent_txt h3 {font-style: italic; letter-spacing: 2px; line-height: 2; color: #ccc; font-weight: bold; margin-bottom: 0;
+font-size: 34px;}
+
+.caret_area {display: inline-block; position: absolute; top: 110%; left: 60%; opacity: .2;}
+.caret_area i {font-size: 40px;}
+.caret_area i.fa-pulse {animation-duration: 10s;}
+
+
+
+/* access computer */
+
+.access_content01 {margin: 30px 0 100px;}
+.computer {}
+.computer > img {margin: 10px auto; display: block;}
+.computer_txt {padding-left: 30px;}
+
+
+/* access bootstrap */
+
+.access_content02 {}
+.bootstrap_txt {}
+.bootstrap_txt h5 {color: #444; font-size: 18px; font-weight: bold;}
+.bootstrap_txt h5:nth-of-type(1) {text-transform: uppercase; letter-spacing: 1px; margin-bottom: 20px;}
+.bootstrap_txt h5:nth-of-type(2) {font-size: 14px; line-height: 1.5; margin-bottom: 30px;}
+.bootstrap_txt > span {font-size: 12px; color: #999; display: inline-block; line-height: 1.5}
+
+.bootstrap_img {text-align: right;}
+.bootstrap_img img {display: inline;}
+
+
+/* bootstrap icon */
+
+.access_content03 {margin: 100px 0 0 0; padding-bottom: 100px;}
+
+.access_content03 > div {text-align: center; padding-left: 60px; padding-right: 60px;}
+.access_content03 > div img {margin-bottom: 60px;}
+.access_content03 > div p {text-align: left; color: #444; font-weight: bold;}
+.access_content03 > div p:nth-of-type(2) {font-weight: normal; line-height: 1.5;}
+
+
+/* media query */
+
+@media screen and (max-width: 1439px) {
+
+	/* top main */
+
+	.topmain-wrap > h2 {font-size: 70px;}
+	.topmain-wrap > h2 span {letter-spacing: 15px; font-size: 12px;}
+
+}
+
+@media screen and (max-width: 1279px) {
+
+}
+
+@media screen and (max-width: 1199px) {
+
+	/* access */
+
+	.access_title_dummy {max-width: 30%; flex: 0 0 30%;}
+	.access_title_content {max-width: 70%; flex: 0 0 70%;}
+
+}
+
+@media screen and (max-width: 1023px) {
+
+	/* access */
+
+	.web_grid_title > div > p:nth-of-type(3) span {display: block;}
+
+}
+
+@media screen and (max-width: 991px) {
+
+	/* topmain */
+
+	.topmain-wrap > h2 span {letter-spacing: 5px;}
+
+	/* web */
+
+	.web_grid_container {max-width: 95%;}
+
+	/* web_grid */
+
+	.grid_sub_content h6 > span {font-size: 12px;}
+
+
+	/* access */
+
+
+	.access_title_dummy {max-width: 10%; flex: 0 0 10%;}
+	.access_title_content {max-width: 90%; flex: 0 0 90%;}
+	.access_title_content > h4 {padding-left: 0;}
+	.access_title_content .progress {margin-left: 5px;}
+	.access_title_row {padding-bottom: 25%;}
+
+	.computer_icon > div.col {flex-basis: 100%; text-align: center; margin-bottom: 2px;}
+	.computer_icon > div.col:last-child {margin-bottom: 0;}
+
+	.access_content03 > div {padding-left: 15px; padding-right: 15px;}
+
+
+
+}
+
+@media screen and (max-width: 767px) {
+
+
+		/* web_grid */
+
+	.web_grid_title p ins {display: block;}
+	.web_grid_img_right {padding: 0 15px;}
+
+	.web_grid_img_left {text-align: center; margin-bottom: 20px;}
+
+	.grid_icon {margin-right: 0;}
+	.grid_sub_content h6 {font-size: 12px; padding-left: 15px;}
+	.grid_sub_content h6 span {display: block; padding-top: 5px;}
+
+
+	/* access */
+
+	.access_container {max-width: 90%;}
+
+	.access_title_dummy {display: none;}
+	.access_title_content {width: 100%; float: none; flex: 0 0 100%; max-width: 100%;}
+	.access_title_content .progress {margin-left: 50px;}
+
+
+	/* bootstrap */
+
+	.bootstrap_img {padding-top: 40px;}
+
+
+
+}
+
+@media screen and (max-width: 639px) {
+
+
+	/* web_grid */
+
+	.grid_icon {text-align: center; max-width: 100%;}
+	.grid_icon img {max-width: 100%;}
+
+	.grid_sub_content {text-align: center;}
+
+	.grid_sub_content h6 {margin-top: 20px;}
+	.grid_sub_content h6 > span {display: block; padding-top: 10px;}
+
+	/* access */
+
+	.access_container {max-width: 95%;}
+
+	.access_title_content .progress {margin-left: 95px;}
+
+	.access_title_content > h4 {font-size: 16px;}
+	.access_title_content > p {text-align: left !important; text-indent: 150px;}
+	.access_title_content > p span {text-indent: 0}
+
+	/* computer */
+
+	.computer {padding-top: 15%;}
+
+	/* bootstrap */
+	.access_content02 {position: relative;}
+
+	.bootstrap_img {position: absolute; top: 0; padding-top: 0;}
+	.bootstrap_txt {padding-top: 55%;}
+
+	.bootstrap_txt h5:nth-of-type(2) {font-size: 12px;}
+	.access_content03 > div p {font-size: 12px;}
+
+
+
+
+}
+
+@media screen and (max-width: 575px) {
+
+	/* web_grid */
+
+	.web_grid_container .web_grid_title h4 {letter-spacing: 5px; text-align: center !important;}
+	.web_grid_container .web_grid_title h4 span {padding: 0;}
+
+	/* access */
+
+	.access_title_content .progress {margin-left: 30px;}
+	.access_title_content > p {text-indent: 130px;}
+
+	/* compuer */
+
+	.computer {padding-bottom: 60px;}
+
+	.computer_icon > div.col {flex-basis: 20%;}
+
+	/* bootstrap */
+
+	.bootstrap_txt h5:nth-of-type(1) {text-align: center;}
+	.bootstrap_txt h5:nth-of-type(2) {font-size: 14px;}
+	.bootstrap_img {text-align: center;}
+	.access_content03 > div p {text-align: center; font-size: 14px;}
+	.access_content03 > div p:nth-of-type(2) {margin-bottom: 60px;}
+
+
+}
+
+@media screen and (max-width: 479px) {
+
+
+
+	/* web */
+
+	.webtitle h3 span.sub_h3 {display: block; padding-top: 5px;}
+
+
+	/* web_grid_title */
+
+	.web_grid_container .web_grid_title p {font-size: 12px;}
+
+
+	/* access */
+
+	.access_title_content > p {text-indent: 40px;}
+	.access_title_content > h4 {font-size: 14px;}
+	.access_title_content .progress {margin-left: 10px;}
+	.access_content03 {padding-bottom: 60px;}
+
+
+
+}
+
+

@@ -1,0 +1,641 @@
+.space {
+  opacity: 0.9;
+  transform-style: preserve-3d;
+  animation: rotate 10s linear infinite;
+  width: 90vw;
+  height: 90vh;
+  position: absolute;
+  top: 32%;
+  left: 50%;
+  transform: translate(-50%, -50%); }
+
+.element_orbit:nth-child(1) {
+  border: 1px solid rgba(5, 32, 52, 0.1);
+  width: 85px;
+  height: 85px;
+  border-radius: 50%;
+  position: absolute;
+  transform-style: preserve-3d;
+  margin-top: 507.5px;
+  margin-left: calc(50% - (1 * 85px / 2));
+  z-index: 10;
+  animation: orbit-1 48s linear infinite; }
+
+@keyframes orbit-1 {
+  from {
+    transform: rotate(0deg); }
+  to {
+    transform: rotate(360deg); } }
+.element_square:nth-child(1) {
+  width: 71%;
+  height: 71%;
+  position: relative;
+  margin: 0 auto;
+  margin-top: 14.5%;
+  transform-style: preserve-3d; }
+
+.element_orbit:nth-child(2) {
+  border: 1px solid rgba(5, 32, 52, 0.1);
+  width: 170px;
+  height: 170px;
+  border-radius: 50%;
+  position: absolute;
+  transform-style: preserve-3d;
+  margin-top: 465px;
+  margin-left: calc(50% - (2 * 85px / 2));
+  z-index: 10;
+  animation: orbit-2 64.4s linear infinite; }
+
+@keyframes orbit-2 {
+  from {
+    transform: rotate(0deg); }
+  to {
+    transform: rotate(360deg); } }
+.element_square:nth-child(2) {
+  width: 71%;
+  height: 71%;
+  position: relative;
+  margin: 0 auto;
+  margin-top: 14.5%;
+  transform-style: preserve-3d; }
+
+.element_orbit:nth-child(3) {
+  border: 1px solid rgba(5, 32, 52, 0.1);
+  width: 255px;
+  height: 255px;
+  border-radius: 50%;
+  position: absolute;
+  transform-style: preserve-3d;
+  margin-top: 422.5px;
+  margin-left: calc(50% - (3 * 85px / 2));
+  z-index: 10;
+  animation: orbit-3 89.2s linear infinite; }
+
+@keyframes orbit-3 {
+  from {
+    transform: rotate(0deg); }
+  to {
+    transform: rotate(360deg); } }
+.element_square:nth-child(3) {
+  width: 71%;
+  height: 71%;
+  position: relative;
+  margin: 0 auto;
+  margin-top: 14.5%;
+  transform-style: preserve-3d; }
+
+.element_orbit:nth-child(4) {
+  border: 1px solid rgba(5, 32, 52, 0.1);
+  width: 340px;
+  height: 340px;
+  border-radius: 50%;
+  position: absolute;
+  transform-style: preserve-3d;
+  margin-top: 380px;
+  margin-left: calc(50% - (4 * 85px / 2));
+  z-index: 10;
+  animation: orbit-4 51.4s linear infinite; }
+
+@keyframes orbit-4 {
+  from {
+    transform: rotate(0deg); }
+  to {
+    transform: rotate(360deg); } }
+.element_square:nth-child(4) {
+  width: 71%;
+  height: 71%;
+  position: relative;
+  margin: 0 auto;
+  margin-top: 14.5%;
+  transform-style: preserve-3d; }
+
+.element_orbit:nth-child(5) {
+  border: 1px solid rgba(5, 32, 52, 0.1);
+  width: 425px;
+  height: 425px;
+  border-radius: 50%;
+  position: absolute;
+  transform-style: preserve-3d;
+  margin-top: 337.5px;
+  margin-left: calc(50% - (5 * 85px / 2));
+  z-index: 10;
+  animation: orbit-5 23.8s linear infinite; }
+
+@keyframes orbit-5 {
+  from {
+    transform: rotate(0deg); }
+  to {
+    transform: rotate(360deg); } }
+.element_square:nth-child(5) {
+  width: 71%;
+  height: 71%;
+  position: relative;
+  margin: 0 auto;
+  margin-top: 14.5%;
+  transform-style: preserve-3d; }
+
+.element_orbit:nth-child(6) {
+  border: 1px solid rgba(5, 32, 52, 0.1);
+  width: 510px;
+  height: 510px;
+  border-radius: 50%;
+  position: absolute;
+  transform-style: preserve-3d;
+  margin-top: 295px;
+  margin-left: calc(50% - (6 * 85px / 2));
+  z-index: 10;
+  animation: orbit-6 54.58s linear infinite; }
+
+@keyframes orbit-6 {
+  from {
+    transform: rotate(0deg); }
+  to {
+    transform: rotate(360deg); } }
+.element_square:nth-child(6) {
+  width: 71%;
+  height: 71%;
+  position: relative;
+  margin: 0 auto;
+  margin-top: 14.5%;
+  transform-style: preserve-3d; }
+
+.element_orbit:nth-child(7) {
+  border: 1px solid rgba(5, 32, 52, 0.1);
+  width: 595px;
+  height: 595px;
+  border-radius: 50%;
+  position: absolute;
+  transform-style: preserve-3d;
+  margin-top: 252.5px;
+  margin-left: calc(50% - (7 * 85px / 2));
+  z-index: 10;
+  animation: orbit-7 39s linear infinite; }
+
+@keyframes orbit-7 {
+  from {
+    transform: rotate(0deg); }
+  to {
+    transform: rotate(360deg); } }
+.element_square:nth-child(7) {
+  width: 71%;
+  height: 71%;
+  position: relative;
+  margin: 0 auto;
+  margin-top: 14.5%;
+  transform-style: preserve-3d; }
+
+.element_orbit:nth-child(8) {
+  border: 1px solid rgba(5, 32, 52, 0.1);
+  width: 680px;
+  height: 680px;
+  border-radius: 50%;
+  position: absolute;
+  transform-style: preserve-3d;
+  margin-top: 210px;
+  margin-left: calc(50% - (8 * 85px / 2));
+  z-index: 10;
+  animation: orbit-8 48s linear infinite; }
+
+@keyframes orbit-8 {
+  from {
+    transform: rotate(0deg); }
+  to {
+    transform: rotate(360deg); } }
+.element_square:nth-child(8) {
+  width: 71%;
+  height: 71%;
+  position: relative;
+  margin: 0 auto;
+  margin-top: 14.5%;
+  transform-style: preserve-3d; }
+
+.element_orbit:nth-child(9) {
+  border: 1px solid rgba(5, 32, 52, 0.1);
+  width: 765px;
+  height: 765px;
+  border-radius: 50%;
+  position: absolute;
+  transform-style: preserve-3d;
+  margin-top: 167.5px;
+  margin-left: calc(50% - (9 * 85px / 2));
+  z-index: 10;
+  animation: orbit-9 29.6s linear infinite; }
+
+@keyframes orbit-9 {
+  from {
+    transform: rotate(0deg); }
+  to {
+    transform: rotate(360deg); } }
+.element_square:nth-child(9) {
+  width: 71%;
+  height: 71%;
+  position: relative;
+  margin: 0 auto;
+  margin-top: 14.5%;
+  transform-style: preserve-3d; }
+
+.element1 {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  border: 1px solid #222;
+  opacity: 1;
+  margin-top: -25px;
+  margin-left: -25px; }
+
+.ring-element1 {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  margin-top: -60px;
+  margin-left: -35px;
+  border: 1px solid gray;
+  display: none;
+  opacity: 0.8;
+  animation: ring-orbit 3s linear infinite; }
+
+.orbit-element1 {
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  margin-top: -60px;
+  margin-left: -36px;
+  display: none;
+  opacity: 0.8;
+  animation: moon-orbit 10s linear infinite; }
+
+.moon-element1 {
+  width: 6px;
+  height: 6px;
+  display: none;
+  border: 1px solid #999;
+  border-radius: 50%; }
+
+@keyframes moon-orbit {
+  from {
+    transform: rotate(0); }
+  to {
+    transform: rotate(360deg); } }
+@keyframes ring-orbit {
+  from {
+    transform: rotateX(60deg) rotateY(150deg) rotate(0); }
+  to {
+    transform: rotateX(60deg) rotateY(150deg) rotate(360deg); } }
+.element2 {
+  width: 14.5px;
+  height: 14.5px;
+  border-radius: 50%;
+  border: 1px solid #1480AC;
+  opacity: 1;
+  margin-top: -7.25px;
+  margin-left: -7.25px; }
+
+.ring-element2 {
+  width: 24.5px;
+  height: 24.5px;
+  border-radius: 50%;
+  margin-top: -24.5px;
+  margin-left: -17.25px;
+  border: 1px solid gray;
+  display: none;
+  opacity: 0.8;
+  animation: ring-orbit 3s linear infinite; }
+
+.orbit-element2 {
+  width: 34.5px;
+  height: 34.5px;
+  border-radius: 50%;
+  margin-top: -24.5px;
+  margin-left: -18.25px;
+  display: none;
+  opacity: 0.8;
+  animation: moon-orbit 10s linear infinite; }
+
+.moon-element2 {
+  width: 6px;
+  height: 6px;
+  display: none;
+  border: 1px solid #999;
+  border-radius: 50%; }
+
+@keyframes moon-orbit {
+  from {
+    transform: rotate(0); }
+  to {
+    transform: rotate(360deg); } }
+@keyframes ring-orbit {
+  from {
+    transform: rotateX(60deg) rotateY(150deg) rotate(0); }
+  to {
+    transform: rotateX(60deg) rotateY(150deg) rotate(360deg); } }
+.element3 {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  border: 1px solid #F9FF9D;
+  opacity: 1;
+  margin-top: -20px;
+  margin-left: -20px; }
+
+.ring-element3 {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  margin-top: -50px;
+  margin-left: -30px;
+  border: 1px solid gray;
+  display: none;
+  opacity: 0.8;
+  animation: ring-orbit 3s linear infinite; }
+
+.orbit-element3 {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  margin-top: -50px;
+  margin-left: -31px;
+  display: none;
+  opacity: 0.8;
+  animation: moon-orbit 10s linear infinite; }
+
+.moon-element3 {
+  width: 6px;
+  height: 6px;
+  display: none;
+  border: 1px solid #999;
+  border-radius: 50%; }
+
+@keyframes moon-orbit {
+  from {
+    transform: rotate(0); }
+  to {
+    transform: rotate(360deg); } }
+@keyframes ring-orbit {
+  from {
+    transform: rotateX(60deg) rotateY(150deg) rotate(0); }
+  to {
+    transform: rotateX(60deg) rotateY(150deg) rotate(360deg); } }
+.element4 {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  border: 1px solid #ff6666;
+  opacity: 1;
+  margin-top: -10px;
+  margin-left: -10px; }
+
+.ring-element4 {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  margin-top: -30px;
+  margin-left: -20px;
+  border: 1px solid gray;
+  display: none;
+  opacity: 0.8;
+  animation: ring-orbit 3s linear infinite; }
+
+.orbit-element4 {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  margin-top: -30px;
+  margin-left: -21px;
+  display: none;
+  opacity: 0.8;
+  animation: moon-orbit 10s linear infinite; }
+
+.moon-element4 {
+  width: 6px;
+  height: 6px;
+  display: none;
+  border: 1px solid #999;
+  border-radius: 50%; }
+
+@keyframes moon-orbit {
+  from {
+    transform: rotate(0); }
+  to {
+    transform: rotate(360deg); } }
+@keyframes ring-orbit {
+  from {
+    transform: rotateX(60deg) rotateY(150deg) rotate(0); }
+  to {
+    transform: rotateX(60deg) rotateY(150deg) rotate(360deg); } }
+.element5 {
+  width: 33.5px;
+  height: 33.5px;
+  border-radius: 50%;
+  border: 1px solid #534FAC;
+  opacity: 1;
+  margin-top: -16.75px;
+  margin-left: -16.75px; }
+
+.ring-element5 {
+  width: 43.5px;
+  height: 43.5px;
+  border-radius: 50%;
+  margin-top: -43.5px;
+  margin-left: -26.75px;
+  border: 1px solid gray;
+  display: none;
+  opacity: 0.8;
+  animation: ring-orbit 3s linear infinite; }
+
+.orbit-element5 {
+  width: 53.5px;
+  height: 53.5px;
+  border-radius: 50%;
+  margin-top: -43.5px;
+  margin-left: -27.75px;
+  display: none;
+  opacity: 0.8;
+  animation: moon-orbit 10s linear infinite; }
+
+.moon-element5 {
+  width: 6px;
+  height: 6px;
+  display: none;
+  border: 1px solid #999;
+  border-radius: 50%; }
+
+@keyframes moon-orbit {
+  from {
+    transform: rotate(0); }
+  to {
+    transform: rotate(360deg); } }
+@keyframes ring-orbit {
+  from {
+    transform: rotateX(60deg) rotateY(150deg) rotate(0); }
+  to {
+    transform: rotateX(60deg) rotateY(150deg) rotate(360deg); } }
+.element6 {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  border: 1px solid #ffd27f;
+  opacity: 1;
+  margin-top: -20px;
+  margin-left: -20px; }
+
+.ring-element6 {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  margin-top: -50px;
+  margin-left: -30px;
+  border: 1px solid gray;
+  display: none;
+  opacity: 0.8;
+  animation: ring-orbit 3s linear infinite; }
+
+.orbit-element6 {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  margin-top: -50px;
+  margin-left: -31px;
+  display: none;
+  opacity: 0.8;
+  animation: moon-orbit 10s linear infinite; }
+
+.moon-element6 {
+  width: 6px;
+  height: 6px;
+  display: none;
+  border: 1px solid #999;
+  border-radius: 50%; }
+
+@keyframes moon-orbit {
+  from {
+    transform: rotate(0); }
+  to {
+    transform: rotate(360deg); } }
+@keyframes ring-orbit {
+  from {
+    transform: rotateX(60deg) rotateY(150deg) rotate(0); }
+  to {
+    transform: rotateX(60deg) rotateY(150deg) rotate(360deg); } }
+.element7 {
+  width: 8.5px;
+  height: 8.5px;
+  border-radius: 50%;
+  border: 1px solid #b2ffff;
+  opacity: 1;
+  margin-top: -4.25px;
+  margin-left: -4.25px; }
+
+.ring-element7 {
+  width: 18.5px;
+  height: 18.5px;
+  border-radius: 50%;
+  margin-top: -18.5px;
+  margin-left: -14.25px;
+  border: 1px solid gray;
+  display: none;
+  opacity: 0.8;
+  animation: ring-orbit 3s linear infinite; }
+
+.orbit-element7 {
+  width: 28.5px;
+  height: 28.5px;
+  border-radius: 50%;
+  margin-top: -18.5px;
+  margin-left: -15.25px;
+  display: none;
+  opacity: 0.8;
+  animation: moon-orbit 10s linear infinite; }
+
+.moon-element7 {
+  width: 6px;
+  height: 6px;
+  display: none;
+  border: 1px solid #999;
+  border-radius: 50%; }
+
+@keyframes moon-orbit {
+  from {
+    transform: rotate(0); }
+  to {
+    transform: rotate(360deg); } }
+@keyframes ring-orbit {
+  from {
+    transform: rotateX(60deg) rotateY(150deg) rotate(0); }
+  to {
+    transform: rotateX(60deg) rotateY(150deg) rotate(360deg); } }
+.element8 {
+  width: 44.5px;
+  height: 44.5px;
+  border-radius: 50%;
+  border: 1px solid #00b3b3;
+  opacity: 1;
+  margin-top: -22.25px;
+  margin-left: -22.25px; }
+
+.ring-element8 {
+  width: 54.5px;
+  height: 54.5px;
+  border-radius: 50%;
+  margin-top: -54.5px;
+  margin-left: -32.25px;
+  border: 1px solid gray;
+  display: none;
+  opacity: 0.8;
+  animation: ring-orbit 3s linear infinite; }
+
+.orbit-element8 {
+  width: 64.5px;
+  height: 64.5px;
+  border-radius: 50%;
+  margin-top: -54.5px;
+  margin-left: -33.25px;
+  display: none;
+  opacity: 0.8;
+  animation: moon-orbit 10s linear infinite; }
+
+.moon-element8 {
+  width: 6px;
+  height: 6px;
+  display: none;
+  border: 1px solid #999;
+  border-radius: 50%; }
+
+@keyframes moon-orbit {
+  from {
+    transform: rotate(0); }
+  to {
+    transform: rotate(360deg); } }
+@keyframes ring-orbit {
+  from {
+    transform: rotateX(60deg) rotateY(150deg) rotate(0); }
+  to {
+    transform: rotateX(60deg) rotateY(150deg) rotate(360deg); } }
+.element_orbit:nth-child(1) {
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  border-radius: 50%; }
+
+.orbit-element3 {
+  display: block;
+  box-shadow: none;
+  border: 1px solid rgba(5, 32, 52, 0.1); }
+
+.moon-element3 {
+  display: block;
+  border: 1px solid #1e7e34; }
+
+.orbit-element8 {
+  display: block; }
+
+.moon-element8 {
+  width: 10px;
+  height: 10px;
+  display: block;
+  border: 1px solid #ca06ff; }
+
+#centerCircle {
+  border-radius: initial;
+  border: none;
+  background: url(../../img/element.png) no-repeat;
+  background-size: contain; }
+
+/*# sourceMappingURL=indexSystem.css.map */

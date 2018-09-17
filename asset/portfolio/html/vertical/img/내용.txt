@@ -1,0 +1,61 @@
+top bg:#333;
+
+타이틀
+
+Slick-slide
+
+===========================================================================
+
+메뉴
+
+Notice
+Contents
+Portfolio
+About
+Home
+
+===========================================================================
+배너에 들어갈 내용
+We are using a background image that creates a glass like effect with a semi-transparent gradient.<br/>  
+When you use some background pattern (like the wood in the demo) it creates a beautiful effect. 
+
+The image will be styled as follows:
+
+Read More
+
+
+본문내용
+
+Welcome to Linear
+This is Linear, a responsive HTML5 site template freebie by TEMPLATED. Released for free under the Creative Commons Attribution license, so use it for whatever (personal or commercial) ? just give us credit! Check out more of our stuff at our site or follow us on Twitter.
+
+==아이콘내용==
+Maecenas luctus lectus
+Curabitur sit amet nulla. Nam in massa. Sed vel tellus. Curabitur sem urna, consequat vel, suscipit in, mattis placerat, nulla. Sed ac leo.
+
+버튼:Read More
+
+Maecenas luctus lectus
+Donec ornare neque ac sem. Mauris aliquet. Aliquam sem leo, vulputate sed, convallis at, ultricies quis, justo. Donec magna. 
+
+버튼:Read More
+
+Maecenas luctus lectus
+Curabitur sit amet nulla. Nam in massa. Sed vel tellus. Curabitur sem urna, consequat vel, suscipit in, mattis placerat, nulla. Sed ac leo.
+
+버튼:Read More
+
+
+==이미지관련 내용==
+
+Mauris vulputate dolor
+In posuere eleifend odio. Quisque semper augue mattis wisi. Maecenas ligula. Pellentesque viverra vulputate enim. Aliquam erat volutpat. Donec leo, vivamus fermentum nibh in augue praesent a lacus at urna congue rutrum.
+
+
+==하단 콘텐츠 관련 내용==
+“In posuere eleifend odio. Quisque semper augue mattis wisi. Maecenas ligula. Pellentesque viverra vulputate enim. Aliquam erat volutpat.”
+
+
+
+
+Resize the browser window to see how the content respond to the resizing.adipiscing risus.
