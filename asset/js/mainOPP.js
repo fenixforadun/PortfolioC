@@ -235,5 +235,5 @@ $( document ).ready( function () {
 		this.callback = function () {
 		};
 	}
-} );
 
+} );

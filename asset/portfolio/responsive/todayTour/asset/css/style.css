@@ -40,7 +40,7 @@ line-height: 55px; cursor: pointer; font-size: 27.5px; z-index: 999; display: no
 https://www.free-css.com/*/
 
 * {box-sizing: border-box;}
-html, body {height: 100%; font-size: 14px;}
+html, body {height: 100%; font-size: 14px; overflow-x: hidden}
 body {background: url("../common/bg/mainbg.png") no-repeat top center; background-size: cover;}
 article {transition: .5s ease;}
 section {transition: .5s ease;}
@@ -139,7 +139,8 @@ padding: 0 0.4rem;}
 .find_cont_form {text-align: center; position: relative;}
 
 .find_cont_form_radio {overflow: visible; margin: 0 auto; position: absolute; top: 0%; left: 52%; transform: translate(-50%, -50%);
-padding: 1.429rem 0; transition: .5s ease;}
+padding: 1.429rem 0; transition: .5s ease;
+    z-index: 50;}
 
 .find_cont_form_radio:after {content: ""; display: block; clear: both;}
 
@@ -228,7 +229,8 @@ margin-top: 33.5px; line-height: 40px; font-weight: bold; border-radius: 30px; m
 
 /* travel */
 
-.travel {width: 68%; overflow: hidden; height: auto; display: table; padding: 100px 0; margin: 0 auto; transition: .5s ease;}
+.travel {width: 100%; overflow: hidden; height: auto; display: table; padding: 100px 0; margin: 0 auto; transition: .5s ease;
+    background: #ffffff;}
 .travel_wrap {display: table-cell; vertical-align: middle; margin: 0 auto; width: 80%; transition: .5s ease;}
 .travel_wrap > div {width: 48%; float: left; display: inline-block; transition: .5s ease;}
 
@@ -365,7 +367,8 @@ padding: 1rem 0; border-radius: 3.6rem; transition: .6s ease;}
 /* memory */
 
 .memory {background: #fff; width: 100%; height: auto;}
-.memory_wrap {width: 70%; margin: 130px auto 0; height: 100%; padding-bottom: 160px; overflow: hidden; transition: .6s ease-out;}
+.memory_wrap {width: 70%; margin: 0 auto; height: 100%; padding-bottom: 160px; overflow: hidden; transition: .6s ease-out;
+    padding-top: 130px;}
 
 .memory_title {width: 38%; margin-bottom: 70px; margin-left: 70px; transition: 0.5s linear;}
 .memory_title h1 {font-size: 1.571rem; transition: .5s ease; text-align: left; font-style: italic; font-weight: 500;}

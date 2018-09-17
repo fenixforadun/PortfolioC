@@ -217,16 +217,58 @@
 
 <section id="section2">
 	<article id="portfolio">
-		<div class="jumbotron-fluid portfolio_banner">
-			<h2><i class="fas fa-quote-left"></i>We're free to go where we wish and to be what we are,<i class="fas fa-quote-right"></i></h2>
-			<p>Jonathan Livingston Seagull, Richard Bach, 2006, 75</p>
+		<div class="jumbotron-fluid portfolio_banner_wrap">
+			<div class="portfolio_banner">
+				<div class="banner_title">
+					<h2><i class="fas fa-quote-left"></i>We're free to go where we wish and <span>to be what we are,</span><i
+									class="fas fa-quote-right"></i></h2>
+					<p>Jonathan Livingston Seagull, Richard Bach, 2006, 75</p>
+				</div>
+			</div>
 		</div>
 		<div class="container-fluid portfolio_container">
-			<div class="row portfolio_grid_row">
+			<h3>HTML / CSS3</h3>
+			<div class="row portfolio_grid_row html_row">
 				<div class="col aesop">
-					<img src="../img/portfolio/aesop.png" alt="">
+					<img src="../img/portfolio/thumbnail/aesop1.png" alt="html_aesop">
 				</div>
-				<div class="col"></div>
+				<div class="col">
+					<img src="../img/portfolio/thumbnail/hansol1.png" alt="html_hansol">
+				</div>
+				<div class="col">
+					<img src="../img/portfolio/thumbnail/normal1.png" alt="html_vertical">
+				</div>
+			</div>
+
+			<h3>Responsive</h3>
+
+			<div class="row portfolio_grid_row responsive_row">
+				<div class="col ilove">
+					<img src="../img/portfolio/thumbnail/iloveWeb1.png" alt="responsive_iloveweb">
+				</div>
+				<div class="col myself">
+					<img src="../img/portfolio/thumbnail/myself1.png" alt="responsive_myself">
+				</div>
+				<div class="col daytour">
+					<img src="../img/portfolio/thumbnail/tour1.png" alt="daytour">
+				</div>
+			</div>
+
+			<h3>BootStrap</h3>
+
+			<div class="row portfolio_grid_row bootstrap">
+				<div class="col designtam">
+					<img src="../img/portfolio/thumbnail/foundry1.png" alt="bootstrap_foundry">
+				</div>
+				<div class="col selfintro">
+					<img src="../img/portfolio/thumbnail/self1.png" alt="bootstrap_selfintro">
+				</div>
+				<div class="col tams">
+					<img src="../img/portfolio/thumbnail/tams1.png" alt="bootstrap_tams">
+				</div>
+				<div class="col winery">
+					<img src="../img/portfolio/thumbnail/wine1.png" alt="bootstrap_wine">
+				</div>
 			</div>
 		</div>
 	</article>
@@ -268,6 +310,43 @@
 	new WOW().init();
 
 	//]]>
+</script>
+<script type="text/javascript">
+
+	$( document ).ready( function () {
+		var lFollowX = 0,
+				lFollowY = 0,
+				x = 0,
+				y = 0,
+				friction = 1 / 30;
+
+		function moveBackground() {
+			x += ( lFollowX - x ) * friction;
+			y += ( lFollowY - y ) * friction;
+
+			translate = 'translate(' + x + 'px, ' + y + 'px) scale(1.1)';
+
+			$( '.portfolio_banner' ).css( {
+				'-webit-transform': translate,
+				'-moz-transform': translate,
+				'transform': translate
+			} );
+
+			window.requestAnimationFrame( moveBackground );
+		}
+
+		$( window ).on( 'mousemove click', function ( e ) {
+
+			var lMouseX = Math.max( -100, Math.min( 100, $( window ).width() / 2 - e.clientX ) );
+			var lMouseY = Math.max( -100, Math.min( 100, $( window ).height() / 2 - e.clientY ) );
+			lFollowX = ( 20 * lMouseX ) / 100;
+			lFollowY = ( 10 * lMouseY ) / 100;
+
+		} );
+
+		moveBackground();
+	} );
+
 </script>
 
 

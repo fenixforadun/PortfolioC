@@ -140,6 +140,21 @@ transition: .6s ease; border-radius: 15px 15px 0 0;}
 .fourth_banner > h1 {font-size: 60px; text-align: center; display: table-cell; vertical-align: middle;}
 .fourth_banner > span {display: none;}
 
+@media screen and (max-width: 1780px) {
+	.thi_ban_right h1 {
+		font-size: 24px;
+	}
+	.thi_ban_right h1:nth-of-type(1):after {
+		width: 85%;
+		margin-top: 0;
+		margin-bottom: 10px;
+	}
+	.thi_ban_right h1:nth-of-type(2):after {
+		width: 75%;
+		margin-top: 0;
+		margin-bottom: 10px;
+	}
+}
 
 
 @media screen and (max-width: 1024px) {

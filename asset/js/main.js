@@ -65,15 +65,17 @@ $( document ).ready( function () {
 	setInterval( nowClock, 1000 );
 
 	var nav = $( '#selectTab > li' );
-	var articles = $( '#section > article' );
+	var articles = $( 'body > section' );
 
 	$( nav ).click( function () {
+		event.preventDefault();
+
 		var target = $( this );
 		var indexs = target.index();
 		var section = articles.eq( indexs );
 		var offset = section.offset().top;
 
-		$( 'html, body' ).animate( {scrollTop: offset}, 3000, "ease" );
+		$( 'html, body' ).stop().animate( { scrollTop: offset }, 3000, 'swing');
 	} );
 
 	// to the top btn

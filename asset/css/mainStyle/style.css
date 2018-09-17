@@ -48,6 +48,8 @@ h1:lang(en), h2:lang(en), h3:lang(en), h4:lang(en), p:lang(en), span:lang(en), a
 
 html, body {
     font-size: 14px;
+    width: 100%;
+    height: auto;
 }
 
 body {
