@@ -11,6 +11,9 @@ a:hover, a:link, a:focus {
     color: #000;
 }
 
+img {
+    cursor: pointer;
+}
 /* language */
 
 h1:lang(ko), h2:lang(ko), h3:lang(ko), h4:lang(ko), p:lang(ko), span:lang(ko), a:lang(ko) {
@@ -48,8 +51,6 @@ h1:lang(en), h2:lang(en), h3:lang(en), h4:lang(en), p:lang(en), span:lang(en), a
 
 html, body {
     font-size: 14px;
-    width: 100%;
-    height: auto;
 }
 
 body {
@@ -66,44 +67,45 @@ body {
 
 header {
     width: 100%;
-    height: 130vh;
-
+    height: 125vh;
+    min-height: 100vh;
+    max-height: 935px;
+    overflow: hidden;
+    background: #000000;
 }
 
 /* header > main */
 
 .header_main {
-    width: 100%;
     position: relative;
-    height: 100%;
 }
 
 .header_main > .header_main_img {
-    width: 100%;
     position: absolute;
-    left: 0;
+    top: 0;
+    width: 100%;
     height: 100%;
+}
+
+.header_main_img > img {
+    display: block;
+    width: 100%;
 }
 
 .header_main_top {
     z-index: 1;
-    background-size: cover;
-    background: url(../../img/main/main_top.png) no-repeat top;
 }
 
 .header_main_bottom {
     z-index: 3;
-    background: url(../../img/main/main_bottom.png) no-repeat bottom;
-    background-size: cover;
 }
 
 .header_title {
     z-index: 2;
-    left: 60%;
-    top: 60%;
+    left: 50%;
+    top: 50%;
     transform: translate(-50%, -50%);
-    width: 50%;
-    height: 50%;
+    display: inline-block;
     position: fixed;
 }
 
@@ -156,10 +158,10 @@ header {
 }
 
 .window_wrap {
-    width: 30%;
+    width: 11%;
     height: 100%;
-    background: rgba(0, 0, 0, 0.9);
-    position: absolute;
+    background: rgba(30, 31, 30, 0.9);
+    position: fixed;
     top: 0;
     right: 0;
     z-index: 14;
@@ -175,12 +177,11 @@ header {
 
 .mainContainer .mainContainer_row {
     position: fixed;
-    top: 30%;
-    right: 10%;
+    top: 30%
 }
 
 .mainContainer_row ul {
-
+    margin-bottom: 0;
 }
 
 .mainContainer_row ul li {
@@ -190,12 +191,18 @@ header {
 .mainContainer_row ul li a {
     display: inline-block;
     color: #fff;
-    font-size: 2rem;
+    font-size: 1.2rem;
+    letter-spacing: 1.5px;
 }
 
 .mainContainer_row ul li a i.fa-cog {
-    margin-right: 20px;
-    font-size: 1.5rem;
+    margin-right: -5px;
+    font-size: 0.5rem;
+}
+
+.mainContainer_row ul li a p {
+    margin-bottom: 0;
+    display: inline-block;
 }
 
 /* ====================================================media query==================================================================== */

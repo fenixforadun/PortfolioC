@@ -23,11 +23,12 @@
 				integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU"
 				crossorigin="anonymous"/>
 	<link rel="stylesheet" type="text/css" href="../css/bootStrap/bootstrap.min.css"/>
-
+	<link rel="stylesheet" type="text/css" href="../node_modules/animate.css/animate.min.css"/>
+	<link rel="stylesheet" type="text/css" href="../node_modules/slick-carousel/slick/slick.css">
 	<link rel="stylesheet" type="text/css" href="../css/mainStyle/style.css"/>
 	<link rel="stylesheet" type="text/css" href="../css/mainSCSS/sectionStyle.css"/>
 
-	<link rel="stylesheet" type="text/css" href="../node_modules/animate.css/animate.min.css"/>
+
 
 
 	<!-- webfont -->
@@ -36,6 +37,8 @@
 	<link href="https://fonts.googleapis.com/css?family=Noto+Serif+KR" rel="stylesheet"/>
 	<link href="https://fonts.googleapis.com/css?family=Nanum+Gothic+Coding" rel="stylesheet"/>
 	<link href="https://fonts.googleapis.com/css?family=Work+Sans" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Oswald:700" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Heebo" rel="stylesheet">
 
 	<!-- favicon -->
 
@@ -54,6 +57,8 @@
 	<script type="text/javascript" src="../js/bootStrap/bootstrap.min.js"></script>
 
 	<script type="text/javascript" src="../node_modules/wowjs/dist/wow.min.js"></script>
+	<script type="text/javascript" src="../node_modules/rellax/rellax.min.js"></script>
+	<script type="text/javascript" src="../node_modules/slick-carousel/slick/slick.min.js"></script>
 
 	<script type="text/javascript" src="../js/main.js"></script>
 	<script type="text/javascript" src="../js/mainOPP.js"></script>
@@ -88,97 +93,195 @@
 
 <!-- header -->
 <header>
+	<div class="navbar mainNav">
+		<div class="container mainNav_container">
+			<a href="#" class="navbar-brand mainNav_brand">
+				<h5 style="font-family: 'Heebo', sans-serif;">BY</h5>
+			</a>
+			<ul class="nav mainNav_menu">
+				<li class="nav-item nav-dropdown mainNav_aboutMe">
+					<a href="#" class="nav-link">about me</a>
+					<ul class="dropdown-menu">
+						<li class="sub-dropdown"><a href="#">sub-dropdown</a></li>
+						<li class="sub-dropdown"><a href="#">sub-dropdown</a></li>
+						<li class="sub-dropdown"><a href="#">sub-dropdown</a></li>
+					</ul>
+				</li>
+				<li class="nav-item nav-dropdown mainNav_portfolio">
+					<a href="#" class="nav-link">portfolio</a>
+					<ul class="dropdown-menu">
+						<li class="sub-dropdown"><a href="#">sub-dropdown</a></li>
+						<li class="sub-dropdown"><a href="#">sub-dropdown</a></li>
+						<li class="sub-dropdown"><a href="#">sub-dropdown</a></li>
+					</ul>
+				</li>
+				<li class="nav-item nav-dropdown">
+					<a href="#" class="nav-link">contact me</a>
+					<ul class="dropdown-menu">
+						<li class="sub-dropdown"><a href="#">sub-dropdown</a></li>
+						<li class="sub-dropdown"><a href="#">sub-dropdown</a></li>
+						<li class="sub-dropdown"><a href="#">sub-dropdown</a></li>
+					</ul>
+				</li>
+			</ul>
+		</div>
+	</div>
 	<div class="header_main">
-		<div class="header_main_top header_main_img"></div>
-		<div class="header_main_bottom header_main_img"></div>
+		<div class="header_main_top header_main_img">
+			<img src="../img/main/main_top.png" alt="main_top">
+		</div>
+		<div class="header_main_bottom header_main_img">
+			<img src="../img/main/main_bottom.png" alt="main_bottom">
+		</div>
 		<div class="header_title">
 			<h2 lang="en" id="title_mimundo">mi mundo contigo.</h2>
 			<span lang="en" id="title_copyright">Copyright &lt;C&gt; 2018 BY. All right reserved.</span>
 			<h1 lang="en" id="title_prompt">C:\&gt;mkdir BY<span id="flickr_Cursor">_</span></h1>
 		</div>
 	</div>
+</header>
 
-	<div class="window_wrap">
-		<div class="container-fluid mainContainer">
-			<div class="row mainContainer_row mx-auto align-middle">
-				<div class="col mainContainer_nav">
-					<ul id="selectTab">
-						<li><a href="#design" target="_self" lang="en"><i class="fas fa-cog"></i>Design</a></li>
-						<li><a href="#portfolio" target="_self" lang="en"><i
-										class="fas fa-cog"></i>Portfolio</a></li>
-						<li><a href="#contactme" target="_self" lang="en"><i class="fas fa-cog"></i>Contact me</a>
-						</li>
-					</ul>
-				</div>
+<div class="window_wrap">
+	<div class="container-fluid mainContainer">
+		<div class="row mainContainer_row mx-auto align-middle">
+			<div class="col mainContainer_nav">
+				<ul id="selectTab">
+					<li><a href="#design" target="_self" lang="en">
+						<i class="fas fa-cog"></i>
+						<p class="flow_text">Design</p>
+					</a></li>
+					<li><a href="#portfolio" target="_self" lang="en">
+						<i class="fas fa-cog"></i>
+						<p class="flow_text">Portfolio</p>
+					</a></li>
+					<li><a href="#contactme" target="_self" lang="en">
+						<i class="fas fa-cog"></i>
+						<p class="flow_text">Contact me</p>
+					</a></li>
+				</ul>
 			</div>
 		</div>
 	</div>
-
-</header>
+</div>
 <!-- //header -->
 
 <!-- section -->
 <section id="section1">
+	<button class="btn-info" id="beWhite">non-color</button>
 	<article id="design">
 		<div class="container-fluid design_container">
 			<div class="row design_row design_row1 wow fadeIn" data-wow-duration="3s">
-				<div class="col-3 offset-1 mainImg">
-					<img src="../img/design/bouquet.png" alt="bouquet">
+				<div class="col-3 mainImg">
+					<img src="../img/design/bouquet_1.png" alt="bouquet" class="local_img img-fluid mainImg1">
 				</div>
-				<div class="col-6 offset-1 mainImg">
-					<img src="../img/design/desert.png" alt="desert" id="desert">
-					<div class="desc">
-						<div class="row desc_row" id="desert_wrap">
-							<div class="col-2"><img src="../img/design/designElement/desert_element/element1_1.jpg"
-																			alt="element1_1"></div>
-							<div class="col-3"><img src="../img/design/designElement/desert_element/element1_2.jpg"
-																			alt="element1_2"></div>
-							<div class="col-2"><img src="../img/design/designElement/desert_element/element1_3.png"
-																			alt="element1_3"></div>
-							<div class="col-3"><img src="../img/design/designElement/desert_element/element1_4.jpg"
-																			alt="element1_4"></div>
-							<div class="col-2"><img src="../img/design/designElement/desert_element/element1_5.png"
-																			alt="element1_5"></div>
-							<div class="col-4"><img src="../img/design/designElement/desert_element/element1_6.png"
-																			alt="element1_6"></div>
-							<div class="col-2"><img src="../img/design/designElement/desert_element/element1_7.jpg"
-																			alt="element1_7"></div>
-							<div class="col-3"><img src="../img/design/designElement/desert_element/element1_8.png"
-																			alt="element1_8"></div>
-							<div class="col-2"><img src="../img/design/designElement/desert_element/element1_9.png"
-																			alt="element1_9"></div>
-							<div class="col-2"><img src="../img/design/designElement/desert_element/element1_10.jpg"
-																			alt="element1_10"></div>
-							<div class="col-2"><img src="../img/design/designElement/desert_element/element1_11.png"
-																			alt="element1_11"></div>
+				<div class="col-5 mainImg">
+					<div class="row">
+						<div class="col">
+							<img src="../img/design/desert_1.png" alt="desert" class="local_img img-fluid mainImg2">
 						</div>
 					</div>
 				</div>
-				<div class="col-1"></div>
+				<div class="col-4 terminal_wrap">
+					<div class=terminal>
+						<div class="terminal_button close_button">
+							<span><i class="fas fa-times"></i></span>
+						</div>
+						<div class="terminal_button minimize_button">
+							<span><i class="far fa-window-minimize"></i></span>
+						</div>
+						<div class="terminal_button maximize_button">
+							<span><i class="far fa-window-maximize"></i></span>
+						</div>
+					</div>
+					<div class="terminal_screen">
+						<p class="line" id="nowWatch">First&nbsp;login:&nbsp;Wed&nbsp;February&nbsp;24&nbsp;1988&nbsp;on&nbsp;earth!</p>
+						<p class="line">&nbsp;I'm a web designer.<span class="cursor">_</span></p>
+						<p class="line">&nbsp;I'm a web publisher.<span class="cursor">_</span></p>
+						<p class="line">&nbsp;I want to be a developer of Front-End.<span class="cursor">_</span></p>
+						<p class="line">&nbsp;Let's work together!<span class="cursor">_</span></p>
+						<p class="line">><span class="cursor last_cursor">_</span></p>
+					</div>
+				</div>
+				<div class="bouquet_wide mainImg_wide">
+					<div class="circleContainer wide_img_close_btn">
+						<button class="circle scaleUp" data-animation="scaleDown" data-remove="200"></button>
+					</div>
+					<div class="wide_img_wrap">
+						<img src="../img/design/bouquet.png" alt="bouquet_wide" class="img-thumbnail img-fluid">
+					</div>
+				</div>
+				<div class="desert_wide mainImg_wide">
+					<div class="circleContainer wide_img_close_btn">
+						<button class="circle scaleUp" data-animation="scaleDown" data-remove="200"></button>
+					</div>
+					<div class="wide_img_wrap">
+						<img src="../img/design/desert.png" alt="desert_wide" class="img-thumbnail img-fluid" id="desert_wide_img">
+					</div>
+					<div class="desert_resource">
+						<div class="row desc flex-wrap" id="desert_wrap">
+							<div class="col-3"><img src="../img/design/designElement/desert_element/element1_1.jpg"
+																			alt="element1_1" class="img-fluid"></div>
+							<div class="col-3"><img src="../img/design/designElement/desert_element/element1_2.png"
+																			alt="element1_2" class="img-fluid"></div>
+							<div class="col-3"><img src="../img/design/designElement/desert_element/element1_3.png"
+																			alt="element1_3" class="img-fluid"></div>
+							<div class="col-3"><img src="../img/design/designElement/desert_element/element1_4.png"
+																			alt="element1_4" class="img-fluid"></div>
+							<div class="col-3"><img src="../img/design/designElement/desert_element/element1_5.png"
+																			alt="element1_5" class="img-fluid"></div>
+							<div class="col-3"><img src="../img/design/designElement/desert_element/element1_6.png"
+																			alt="element1_6" class="img-fluid"></div>
+							<div class="col-3"><img src="../img/design/designElement/desert_element/element1_7.png"
+																			alt="element1_7" class="img-fluid"></div>
+							<div class="col-3"><img src="../img/design/designElement/desert_element/element1_8.png"
+																			alt="element1_8" class="img-fluid"></div>
+							<div class="col-3"><img src="../img/design/designElement/desert_element/element1_9.png"
+																			alt="element1_9" class="img-fluid"></div>
+							<div class="col-3"><img src="../img/design/designElement/desert_element/element1_10.png"
+																			alt="element1_10" class="img-fluid"></div>
+							<div class="col-3"><img src="../img/design/designElement/desert_element/element1_11.png"
+																			alt="element1_11" class="img-fluid"></div>
+						</div>
+					</div>
+				</div>
 			</div>
 			<div class="row design_row design_row2 wow slideInUp" data-wow-duration="2s">
-				<div class="col-6 mainImg">
-					<img src="../img/design/erol.png" alt="erol">
+				<div class="col-4 mainImg">
+					<img src="../img/design/erol_1.png" alt="erol" class="img-fluid">
+				</div>
+				<div class="col-4 mainImg" id="hyba">
+					<img src="../img/design/hyba_1.png" alt="hyba" class="img-fluid">
+					<img src="../img/design/designElement/hyba_element/hyba_1.jpg" alt="hyba" class="img-fluid">
+				</div>
+				<div class="col-4 mainImg">
+					<img src="../img/design/kong_1.png" alt="kong" class="img-fluid">
+					<img src="../img/design/hybaLogo.png" alt="hyba_logo" class="img-fluid hyba_close">
+				</div>
+				<div class="design_row_door">
+					<div class="door_bell">
+						<img src="../img/design/hybaLogo_left.png" alt="hyba_logo_left" class="img-fluid door_img_left">
+						<img src="../img/design/hybaLogo_right.png" alt=hyba_logo_right" class="img-fluid door_img_right">
+					</div>
+					<div class="panel left"></div>
+					<div class="panel right"></div>
 				</div>
 			</div>
 			<div class="row design_row design_row3 wow pulse" data-wow-duration="2.5s">
-				<div class="col-7 mainImg" id="hyba">
-					<img src="../img/design/designElement/hyba_element/hyba_1.png" alt="hyba">
-					<img src="../img/design/hyba.png" alt="hyba">
-				</div>
-				<div class="col-5 mainImg">
-					<img src="../img/design/kong.png" alt="kong">
-				</div>
-			</div>
-			<div class="row design_row design_row4 wow fadeInUp" data-wow-duration="2.9s">
 				<div class="col-8 mainImg">
-					<img src="../img/design/index2.png" alt="index2" id="index2">
+					<img src="../img/design/index2_1.png" alt="index2" class="img-fluid mainImg3">
 				</div>
-				<div class="col-4 mainImg4">
-					<ul id="index2_wrap">
+				<div class="index2_wide mainImg_wide">
+					<div class="circleContainer wide_img_close_btn">
+						<button class="circle scaleUp" data-animation="scaleDown" data-remove="200"></button>
+					</div>
+					<div class="wide_img_wrap">
+						<img src="../img/design/index2.png" alt="index2_wide" id="index2">
+					</div>
+					<ul class="index_wide_wrap">
 						<li><img src="../img/design/designElement/index2_element/index2_1.jpg" alt="index2_1"></li>
 						<li><img src="../img/design/designElement/index2_element/index2_2.png" alt="index2_2"></li>
 						<li><img src="../img/design/designElement/index2_element/index2_3.png" alt="index2_3"></li>
+						<div class="clear"></div>
 						<li><img src="../img/design/designElement/index2_element/index2_4.png" alt="index2_4"></li>
 						<li><img src="../img/design/designElement/index2_element/index2_5.jpg" alt="index2_5"></li>
 						<li><img src="../img/design/designElement/index2_element/index2_6.png" alt="index2_6"></li>
@@ -188,31 +291,30 @@
 				</div>
 			</div>
 		</div>
-		<div class="design_desc1">
-			<div class=terminal>
-				<div class="terminal_button close_button">
-					<span><i class="fas fa-times"></i></span>
-				</div>
-				<div class="terminal_button minimize_button">
-					<span><i class="far fa-window-minimize"></i></span>
-				</div>
-				<div class="terminal_button maximize_button">
-					<span><i class="far fa-window-maximize"></i></span>
-				</div>
-			</div>
-			<div class="terminal_screen">
-				<p class="line" id="nowWatch">First&nbsp;login:&nbsp;Wed&nbsp;February&nbsp;24&nbsp;1988&nbsp;on&nbsp;earth!</p>
-				<p class="line">&nbsp;I'm a web designer.<span class="cursor">_</span></p>
-				<p class="line">&nbsp;I'm a web publisher.<span class="cursor">_</span></p>
-				<p class="line">&nbsp;I want to be a developer of Front-End.<span class="cursor">_</span></p>
-				<p class="line">&nbsp;Let's work together!<span class="cursor">_</span></p>
-				<p class="line">><span class="cursor last_cursor">_</span></p>
-			</div>
-		</div>
-		<div class="design_desc2">
-			<canvas id="petals"></canvas>
-		</div>
+
 	</article>
+	<div class="background_desc">
+		<div class="mobil rec1 rellax" data-rellax-speed="-1" style="transform: rotate(45deg)"></div>
+		<div class="bg_line_row row">
+			<div class="col-md-2 line"></div>
+			<div class="col-md-2 line"></div>
+			<div class="col-md-2 line"></div>
+			<div class="col-md-2 line"></div>
+			<div class="col-md-2 line"></div>
+			<div class="col-md-2 line"></div>
+		</div>
+		<div class="mobil rec2 rellax" data-rellax-speed="3" style="transform: rotate(45deg)"></div>
+		<div class="mobil hexa_container1 rellax" data-rellax-speed="2" style="transform: rotate(10deg)">
+			<div class="hexa1"></div>
+		</div>
+		<div class="mobil rec3 rellax" data-rellax-speed="2" style="transform: rotate(135deg)"></div>
+		<div class="mobil hexa_container2 rellax" data-rellax-speed="-2" style="transform: rotate(79deg)">
+			<div class="hexa2"></div>
+		</div>
+		<div class="mobil rec4 rellax" data-rellax-speed="-4" style="transform: rotate(30deg)"></div>
+		<div class="mobil rec5 rellax" data-rellax-speed="-2" style="border-radius: 50%"></div>
+		<div class="mobil rec6 rellax" data-rellax-speed="-3" style="border-radius: 15px; transform: rotate(45deg)"></div>
+	</div>
 </section>
 
 <section id="section2">
@@ -227,47 +329,64 @@
 			</div>
 		</div>
 		<div class="container-fluid portfolio_container">
-			<h3>HTML / CSS3</h3>
+			<h3 class="flow_text">HTML / CSS3</h3>
 			<div class="row portfolio_grid_row html_row">
 				<div class="col aesop">
-					<img src="../img/portfolio/thumbnail/aesop1.png" alt="html_aesop">
+					<a href="#" target="_blank"><img src="../img/portfolio/thumbnail/aesop1.png" alt="html_aesop"></a>
 				</div>
 				<div class="col">
-					<img src="../img/portfolio/thumbnail/hansol1.png" alt="html_hansol">
+					<a href="#" target="_blank"><img src="../img/portfolio/thumbnail/hansol1.png" alt="html_hansol"></a>
 				</div>
 				<div class="col">
-					<img src="../img/portfolio/thumbnail/normal1.png" alt="html_vertical">
+					<a href="#" target="_blank"><img src="../img/portfolio/thumbnail/normal1.png" alt="html_vertical"></a>
+				</div>
+
+				<div class="aesop_wide mainImg_wide">
+					<div class="circleContainer wide_img_close_btn">
+						<button class="circle scaleUp" data-animation="scaleDown" data-remove="200"></button>
+					</div>
+					<div class="wide_img_wrap"></div>
+				</div>
+				<div class="hansol_wide mainImg_wide">
+					<div class="circleContainer wide_img_close_btn">
+						<button class="circle scaleUp" data-animation="scaleDown" data-remove="200"></button>
+					</div>
+				</div>
+				<div class="vertical mainImg_wide">
+					<div class="circleContainer wide_img_close_btn">
+						<button class="circle scaleUp" data-animation="scaleDown" data-remove="200"></button>
+					</div>
 				</div>
 			</div>
 
-			<h3>Responsive</h3>
+			<h3 class="flow_text" id="hamToggleLine">Responsive</h3>
 
 			<div class="row portfolio_grid_row responsive_row">
 				<div class="col ilove">
-					<img src="../img/portfolio/thumbnail/iloveWeb1.png" alt="responsive_iloveweb">
+					<a href="#" target="_blank"><img src="../img/portfolio/thumbnail/iloveWeb1.png" alt="responsive_iloveweb"></a>
 				</div>
 				<div class="col myself">
-					<img src="../img/portfolio/thumbnail/myself1.png" alt="responsive_myself">
+					<a href="#" target="_blank"><img src="../img/portfolio/thumbnail/myself1.png" alt="responsive_myself"></a>
 				</div>
 				<div class="col daytour">
-					<img src="../img/portfolio/thumbnail/tour1.png" alt="daytour">
+					<a href="#" target="_blank"><img src="../img/portfolio/thumbnail/tour1.png" alt="daytour"></a>
 				</div>
 			</div>
 
-			<h3>BootStrap</h3>
+			<h3 class="flow_text">BootStrap</h3>
 
 			<div class="row portfolio_grid_row bootstrap">
 				<div class="col designtam">
-					<img src="../img/portfolio/thumbnail/foundry1.png" alt="bootstrap_foundry">
+					<a href="#" target="_blank"><img src="../img/portfolio/thumbnail/foundry1.png" alt="bootstrap_foundry"></a>
 				</div>
 				<div class="col selfintro">
-					<img src="../img/portfolio/thumbnail/self1.png" alt="bootstrap_selfintro">
+					<a href="#" target="_blank"><img src="../img/portfolio/thumbnail/self1.png" alt="bootstrap_selfintro"></a>
 				</div>
 				<div class="col tams">
-					<img src="../img/portfolio/thumbnail/tams1.png" alt="bootstrap_tams">
+					<a href="#" target="_blank"><img src="../img/portfolio/thumbnail/tams1.png" alt="bootstrap_tams"></a>
 				</div>
 				<div class="col winery">
-					<img src="../img/portfolio/thumbnail/wine1.png" alt="bootstrap_wine">
+					<a href="#" target="_blank"><img src="../img/portfolio/thumbnail/wine1.png" alt="bootstrap_wine"></a>
 				</div>
 			</div>
 		</div>
@@ -307,7 +426,9 @@
 <script type="text/javascript">
 	//<![CDATA[
 
-	new WOW().init();
+	$(document).ready(function (  ) {
+		new WOW().init();
+	});
 
 	//]]>
 </script>
@@ -348,6 +469,51 @@
 	} );
 
 </script>
+
+<script type="text/javascript">
+	$(document).ready(function (  ) {
+		var rellax = new Rellax( '.rellax' );
+	});
+</script>
+
+<script type="text/javascript">
+	$(document).ready(function (  ) {
+		$('.html_row1').slick({
+			dots: true,
+			infinite: false,
+			speed: 500,
+			slideToShow: 4,
+			slideToScroll: 4,
+			responsive: [
+				{
+					breakpoint: 1024,
+					settings: {
+						slidesToShow: 3,
+						slidesToScroll: 3,
+						infinite: true,
+						dots: true
+					}
+				},
+				{
+					breakpoint: 600,
+					settings: {
+						slidesToShow: 2,
+						slidesToScroll: 2
+					}
+				},
+				{
+					breakpoint: 480,
+					settings: {
+						slidesToShow: 1,
+						slidesToScroll: 1
+					}
+				}
+				// settings: "unslick"
+			]
+		})
+	});
+</script>
+
 
 
 </body>
