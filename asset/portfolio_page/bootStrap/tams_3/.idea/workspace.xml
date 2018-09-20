@@ -1,0 +1,1317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0bde8920-0a08-44ae-848c-63d25bae15ef" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../img/portfolio/normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../img/portfolio/tams.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../img/portfolio/tams.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../img/portfolio/thumbnail/normal1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../img/portfolio/thumbnail/tams1.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../img/portfolio/thumbnail/tams1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../main/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../main/main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/designTam_3/._index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/designTam_3/assets/about/about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/designTam_3/assets/about/css/about.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/designTam_3/assets/about/data/about.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/designTam_3/assets/about/data/avatar1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/designTam_3/assets/about/data/avatar2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/designTam_3/assets/about/data/avatar3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/designTam_3/assets/about/data/home10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/designTam_3/assets/about/data/team-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/designTam_3/assets/about/data/team-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/designTam_3/assets/about/data/team-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/designTam_3/assets/about/data/내용.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/designTam_3/assets/about/data/전체페이지.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/designTam_3/assets/about/img/avatar1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/designTam_3/assets/about/img/avatar2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/designTam_3/assets/about/img/avatar3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/designTam_3/assets/about/img/team-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/designTam_3/assets/about/img/team-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/designTam_3/assets/about/img/team-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/designTam_3/assets/common/common.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/designTam_3/assets/css/animate.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/designTam_3/assets/css/bootstrap-theme_3.3.2.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/designTam_3/assets/css/bootstrap_3.3.2.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/designTam_3/assets/css/bootstrap_reset.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/designTam_3/assets/css/font-awesome.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/designTam_3/assets/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/designTam_3/assets/css/reset.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/designTam_3/assets/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/designTam_3/assets/favicon/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/designTam_3/assets/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/designTam_3/assets/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/designTam_3/assets/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/designTam_3/assets/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/designTam_3/assets/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/designTam_3/assets/fonts/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/designTam_3/assets/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/designTam_3/assets/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/designTam_3/assets/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/designTam_3/assets/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/designTam_3/assets/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/designTam_3/assets/img/bg/hash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/designTam_3/assets/img/bg/home10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/designTam_3/assets/img/event/foot-event01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/designTam_3/assets/img/event/foot-event02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/designTam_3/assets/img/event/foot-event03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/designTam_3/assets/img/fashion/fashion1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/designTam_3/assets/img/fashion/fashion2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/designTam_3/assets/img/fashion/fashion3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/designTam_3/assets/img/fashion/fashion4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/designTam_3/assets/img/prod/shop-product-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/designTam_3/assets/img/prod/shop-product-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/designTam_3/assets/img/prod/shop-product-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/designTam_3/assets/img/prod/shop-product-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/designTam_3/assets/img/wear/wear1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/designTam_3/assets/img/wear/wear2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/designTam_3/assets/img/wear/wear3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/designTam_3/assets/img/wear/wear4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/designTam_3/assets/img/wear/wear5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/designTam_3/assets/img/wear/wear6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/designTam_3/assets/js/bootstrap_3.3.2.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/designTam_3/assets/js/html5shiv.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/designTam_3/assets/js/ie-checker-min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/designTam_3/assets/js/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/designTam_3/assets/js/jquery-2.1.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/designTam_3/assets/js/jquery-3.3.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/designTam_3/assets/js/jquery-migrate-1.4.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/designTam_3/assets/js/jquery-ui.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/designTam_3/assets/js/jquery.easing.1.3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/designTam_3/assets/js/modernizr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/designTam_3/assets/js/parallax.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/designTam_3/assets/js/prefixfree.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/designTam_3/assets/js/respond.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/designTam_3/assets/js/video.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/designTam_3/assets/js/wow.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/designTam_3/assets/services/css/services.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/designTam_3/assets/services/data/cover11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/designTam_3/assets/services/data/cover12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/designTam_3/assets/services/data/services.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/designTam_3/assets/services/data/내용1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/designTam_3/assets/services/data/페이지1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/designTam_3/assets/services/img/cover11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/designTam_3/assets/services/img/cover12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/designTam_3/assets/services/services.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/designTam_3/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/._index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/common/common_style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/common/css/animate.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/common/css/bootstrap/bootstrap-grid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/common/css/bootstrap/bootstrap-grid.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/common/css/bootstrap/bootstrap-grid.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/common/css/bootstrap/bootstrap-grid.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/common/css/bootstrap/bootstrap-reboot.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/common/css/bootstrap/bootstrap-reboot.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/common/css/bootstrap/bootstrap-reboot.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/common/css/bootstrap/bootstrap-reboot.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/common/css/bootstrap/bootstrap-reboot_custom.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/common/css/bootstrap/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/common/css/bootstrap/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/common/css/bootstrap/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/common/css/bootstrap/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/common/css/font_awesome/font-awesome.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/common/css/font_awesome/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/common/css/index/index_style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/common/css/reset/reset.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/common/css/sub/sub_common_style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/common/css/sub/visit.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/common/css/toggle/toggle.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/download/Resume.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/favicon/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/fonts/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/img/index/bg/introbg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/img/index/bg/middlebg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/img/index/bg/top-backbg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/img/index/bg/top-frontbg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/img/index/left-comment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/img/index/peoplebanner.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/img/index/peoplebanner2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/img/index/right-comment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/img/index/subtitle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/js/bootstrap/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/js/bootstrap/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/js/bootstrap/popper.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/js/compatibility/html5shiv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/js/compatibility/html5shiv.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/js/compatibility/ie-checker-min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/js/compatibility/modernizr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/js/compatibility/respond.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/js/compatibility/video.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/js/effect/parallax.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/js/effect/parallax.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/js/effect/wow.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/js/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/js/jquery/jquery-2.1.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/js/jquery/jquery-3.3.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/js/jquery/jquery-migrate-1.4.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/js/jquery/jquery-ui.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/js/jquery/jquery.easing.1.3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/js/jquery/prefixfree.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/js/slick/ajax-loader.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/js/slick/fonts/slick.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/js/slick/fonts/slick.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/js/slick/fonts/slick.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/js/slick/fonts/slick.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/js/slick/slick-theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/js/slick/slick.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/js/slick/slick.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/about/about_img/aboutme.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/about/about_img/bg/aboutbg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/about/about_img/bg/abouttop-bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/about/about_img/bg/introbg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/about/about_img/bg/introbg2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/about/about_img/bg/peoplebg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/about/about_img/bg/teambg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/about/about_img/img01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/about/about_img/img02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/about/about_img/img03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/about/about_img/img04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/about/about_img/introduce-title.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/about/about_img/introduce-title2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/about/about_img/teamphoto01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/about/about_img/teamphoto02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/about/about_img/teamphoto03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/about/about_img/work-center-title.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/about/about_img/work-title.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/about/about_img/자기소개.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/about/css/about_style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/about_sub.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/common/bg/home-bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/common/bg/photo-bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/portfolio.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/portfolio/css/portfolio_oneday_style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/portfolio/css/portfolio_style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/portfolio/css/portfolio_toms_style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/portfolio/oneday_img/banner.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/portfolio/oneday_img/color1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/portfolio/oneday_img/color2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/portfolio/oneday_img/color3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/portfolio/oneday_img/color4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/portfolio/oneday_img/font1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/portfolio/oneday_img/font2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/portfolio/oneday_img/grid.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/portfolio/oneday_img/oneday.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/portfolio/oneday_img/site-device.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/portfolio/oneday_img/site-device2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/portfolio/oneday_img/sm-banner1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/portfolio/oneday_img/sm-banner2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/portfolio/oneday_img/내용.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/portfolio/portfolio_img/bg/footer-banner.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/portfolio/portfolio_img/bg/icon-bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/portfolio/portfolio_img/bg/keyword-bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/portfolio/portfolio_img/bg/mission-bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/portfolio/portfolio_img/bg/pot-bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/portfolio/portfolio_img/bg/result-bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/portfolio/portfolio_img/bg/roundbg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/portfolio/portfolio_img/bg/tambg1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/portfolio/portfolio_img/bg/tambg2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/portfolio/portfolio_img/bg/tom-device-bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/portfolio/portfolio_img/bg/tom-device-bg2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/portfolio/portfolio_img/black.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/portfolio/portfolio_img/blue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/portfolio/portfolio_img/green.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/portfolio/portfolio_img/grey.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/portfolio/portfolio_img/icons/arrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/portfolio/portfolio_img/icons/brand-icon1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/portfolio/portfolio_img/icons/brand-icon2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/portfolio/portfolio_img/icons/brand-icon3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/portfolio/portfolio_img/icons/brand-icon4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/portfolio/portfolio_img/icons/concert-icon1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/portfolio/portfolio_img/icons/concert-icon2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/portfolio/portfolio_img/icons/concert-icon3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/portfolio/portfolio_img/icons/concert-icon4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/portfolio/portfolio_img/icons/design-icon1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/portfolio/portfolio_img/icons/design-icon2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/portfolio/portfolio_img/icons/design-icon3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/portfolio/portfolio_img/icons/design-icon4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/portfolio/portfolio_img/icons/icons1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/portfolio/portfolio_img/icons/icons2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/portfolio/portfolio_img/icons/icons3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/portfolio/portfolio_img/icons/mission-icon1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/portfolio/portfolio_img/icons/mission-icon2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/portfolio/portfolio_img/icons/mission-icon3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/portfolio/portfolio_img/icons/mission-icon4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/portfolio/portfolio_img/icons/prediction_icon1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/portfolio/portfolio_img/icons/prediction_icon2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/portfolio/portfolio_img/icons/prediction_icon3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/portfolio/portfolio_img/icons/project-icon1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/portfolio/portfolio_img/icons/project-icon2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/portfolio/portfolio_img/icons/project-icon3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/portfolio/portfolio_img/icons/project-icon4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/portfolio/portfolio_img/icons/step1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/portfolio/portfolio_img/icons/step2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/portfolio/portfolio_img/icons/step3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/portfolio/portfolio_img/icons/step4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/portfolio/portfolio_img/icons/step5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/portfolio/portfolio_img/icons/x-icons.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/portfolio/portfolio_img/lora.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/portfolio/portfolio_img/ment1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/portfolio/portfolio_img/ment2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/portfolio/portfolio_img/ment3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/portfolio/portfolio_img/ment4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/portfolio/portfolio_img/nanum.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/portfolio/portfolio_img/sans.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/portfolio/portfolio_img/title.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/portfolio/portfolio_img/white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/portfolio/portfolio_img/yellow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/portfolio/portfolio_oneday.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/portfolio/portfolio_toms.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/portfolio/toms_img/ingredients.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/portfolio/toms_img/layout-main.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/portfolio/toms_img/layout-main1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/portfolio/toms_img/layout-main2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/portfolio/toms_img/tom-black.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/portfolio/toms_img/tom-green.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/portfolio/toms_img/tom-grey.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/portfolio/toms_img/tom-yellow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/publisher.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/publisher/css/publisher_style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/publisher/publisher_img/3col-grid-sample.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/publisher/publisher_img/3col-grid-sample2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/publisher/publisher_img/3col-grid-title.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/publisher/publisher_img/4col-grid-sample.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/publisher/publisher_img/4col-grid-sample2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/publisher/publisher_img/4col-grid-title.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/publisher/publisher_img/bg/topbg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/publisher/publisher_img/css.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/publisher/publisher_img/html.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/publisher/publisher_img/jquery.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/publisher/publisher_img/pot-line-top.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/publisher/publisher_img/pot01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/publisher/publisher_img/pot02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/publisher/publisher_img/pot03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/publisher/publisher_img/sitetitle-img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/publisher/publisher_img/top-X-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/publisher_site/css/publisher_sub_style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/publisher_site/publisher_site_img/computer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/publisher_site/publisher_site_img/gridsite1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/publisher_site/publisher_site_img/gridsite2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/publisher_site/publisher_site_img/icon/boot-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/publisher_site/publisher_site_img/icon/bott-icons1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/publisher_site/publisher_site_img/icon/bott-icons2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/publisher_site/publisher_site_img/icon/bott-icons3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/publisher_site/publisher_site_img/icon/icon1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/publisher_site/publisher_site_img/icon/icon2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/publisher_site/publisher_site_img/icon/icon3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/publisher_site/publisher_site_img/icon/icon4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/publisher_site/publisher_site_img/icon/icon5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/publisher_site/publisher_site_img/icon/sm-grid-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/publisher_sub.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/subpage/sub_template.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/webfonts/NanumGothic-Bold.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/webfonts/NanumGothic-Bold.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/webfonts/NanumGothic-Bold.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/webfonts/NanumGothic-Regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/webfonts/NanumGothic-Regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/webfonts/NanumGothic-Regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/assets/webfonts/custom_font.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/self_Introduce_4/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/brand/brand_information.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/brand/css/brand_style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/brand/img/Classic.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/brand/img/Globaltomntoms.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/brand/img/black.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/brand/img/brandbg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/brand/img/brandimg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/brand/img/submainbanner.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/brand/logo/TOMNTOMS_LOGO_VARIOUS_TYPE.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/card/card.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/card/css/card_style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/card/img/cardbg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/card/img/giftCard_img01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/card/img/giftCard_img02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/card/img/giftCard_img03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/card/img/icon_circle01.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/card/img/partnerCard_KB.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/card/img/partnerCard_img03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/card/img/partnerCard_img04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/common/bg/visual1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/common/bg/visual2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/common/bg/visual3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/common/brandLogo/brindinfo_logo01.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/common/brandLogo/brindinfo_logo02.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/common/brandLogo/brindinfo_logo03.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/common/brandLogo/brindinfo_logo04.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/common/con1_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/common/con1_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/common/gnb_logo7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/common/update_18_07_04/con1_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/common/update_18_07_04/con1_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/css/animate.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/css/bootstrap-theme_3.3.2.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/css/bootstrap_3.3.2.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/css/common.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/css/font-awesome.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/css/index_style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/css/normalize.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/css/reset.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/css/reset_formal.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/css/sub_common.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/css/themify-icons.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/css/themify-icons_ie7.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/favicon/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/fonts/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/fonts/themify.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/fonts/themify.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/fonts/themify.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/fonts/themify.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/img/brand.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/img/con2_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/img/con2_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/img/con2_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/img/con3_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/img/con5_img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/img/con5_img2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/img/culture/customcenter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/img/culture/foodtruck.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/img/culture/membership.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/img/culture/store.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/img/culture/tomacademy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/img/culture/tomgallery.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/img/culture/tomrental.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/img/culture/tomstage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/img/culture/tomtheatre.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/img/customcenter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/img/icons/brand_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/img/icons/customcenter_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/img/icons/foodtruck_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/img/icons/gnb_logo7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/img/icons/membership_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/img/icons/store_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/img/icons/tomacademy_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/img/icons/tomgallery_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/img/icons/tomrental_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/img/icons/tomstage_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/img/icons/tomtheatre_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/img/membership.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/img/store.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/js/bootstrap_3.3.2.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/js/html5shiv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/js/html5shiv.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/js/ie-checker-min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/js/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/js/jquery-2.1.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/js/jquery-3.3.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/js/jquery-migrate-1.4.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/js/jquery-ui.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/js/jquery.easing.1.3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/js/modernizr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/js/parallax.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/js/parallax.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/js/prefixfree.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/js/respond.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/js/slick/ajax-loader.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/js/slick/fonts/slick.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/js/slick/fonts/slick.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/js/slick/fonts/slick.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/js/slick/fonts/slick.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/js/slick/slick-theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/js/slick/slick.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/js/slick/slick.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/js/themify-icons_ie7.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/js/video.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/js/wow.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/lifestore/css/life_store_style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/lifestore/img/lifestore_img01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/lifestore/img/lifestore_img02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/lifestore/img/lifestore_img03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/lifestore/img/lifestore_img04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/lifestore/img/linebg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/lifestore/img/storebanner.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/lifestore/life_store.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/menu/css/menu_style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/menu/img/icons/bakery-icons.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/menu/img/icons/bless-icons.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/menu/img/icons/coffe-icons.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/menu/img/icons/pretzel-icons.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/menu/img/icons/search.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/menu/img/m-products/season1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/menu/img/m-products/season2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/menu/img/m-products/season3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/menu/img/m-products/season4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/menu/img/m-products/season5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/menu/img/m-products/season6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/menu/img/m-products/season7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/menu/img/m-products/season8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/menu/img/menubg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/menu/img/menubg2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/menu/img/newmenu/m-bg01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/menu/img/newmenu/m-bg02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/menu/img/newmenu/m01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/menu/img/newmenu/m02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/menu/img/newmenu/m03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/menu/menu.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/rental/css/rental_style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/rental/img/bg_foodtruck.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/rental/img/check_point.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/rental/img/foodbg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/rental/img/foodtruck_img01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/rental/img/foodtruck_img02_01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/rental/img/foodtruck_t01.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/rental/img/icon_circle01.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/assets/rental/rental.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/tams_3/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/winery_3/._wineMain.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/winery_3/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/winery_3/img/logo-dark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/winery_3/img/logo-light.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/winery_3/img/wine1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/winery_3/img/wine10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/winery_3/img/wine11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/winery_3/img/wine12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/winery_3/img/wine13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/winery_3/img/wine14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/winery_3/img/wine15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/winery_3/img/wine16.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/winery_3/img/wine2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/winery_3/img/wine3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/winery_3/img/wine6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/winery_3/img/wine7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/winery_3/img/wine9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/winery_3/js/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/bootStrap/winery_3/wineMain.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/aesop/._index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/aesop/common/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/aesop/css/font-awesome.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/aesop/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/aesop/css/fontello.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/aesop/css/reset.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/aesop/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/aesop/favicon/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/aesop/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/aesop/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/aesop/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/aesop/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/aesop/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/aesop/fonts/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/aesop/fonts/fontello.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/aesop/fonts/fontello.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/aesop/fonts/fontello.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/aesop/fonts/fontello.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/aesop/fonts/fontello.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/aesop/img/img01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/aesop/img/img02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/aesop/img/img03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/aesop/img/mainimg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/aesop/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/aesop/js/html5shiv.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/aesop/js/ie-checker-min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/aesop/js/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/aesop/js/jquery-2.1.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/aesop/js/jquery-3.3.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/aesop/js/jquery-migrate-1.4.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/aesop/js/jquery-ui.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/aesop/js/jquery.easing.1.3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/aesop/js/modernizr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/aesop/js/prefixfree.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/aesop/js/respond.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/hansol/._index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/hansol/business_info/furniture_component/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/hansol/business_info/furniture_component/furniture_component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/hansol/business_info/furniture_component/img/component1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/hansol/business_info/furniture_component/img/component2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/hansol/business_info/furniture_component/img/component_ico.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/hansol/business_info/furniture_component/img/ruler.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/hansol/business_info/furniture_component/img/sub-compo1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/hansol/business_info/furniture_component/img/sub-compo2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/hansol/business_info/furniture_component/img/sub-compo3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/hansol/business_info/interior_materials/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/hansol/business_info/interior_materials/img/interior1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/hansol/business_info/interior_materials/img/interior2.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/hansol/business_info/interior_materials/img/interior3.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/hansol/business_info/interior_materials/img/interior4.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/hansol/business_info/interior_materials/img/interior5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/hansol/business_info/interior_materials/interior_materials.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/hansol/business_info/relative_business/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/hansol/business_info/relative_business/img/oversea1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/hansol/business_info/relative_business/img/oversea2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/hansol/business_info/relative_business/img/oversea3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/hansol/business_info/relative_business/img/oversea4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/hansol/business_info/relative_business/img/oversea5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/hansol/business_info/relative_business/img/recycling.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/hansol/business_info/relative_business/img/wood-goods.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/hansol/business_info/relative_business/img/woodflour.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/hansol/business_info/relative_business/relative_business.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/hansol/common/history_b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/hansol/common/ico_tail.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/hansol/common/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/hansol/common/select_arrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/hansol/css/font-awesome.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/hansol/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/hansol/css/reset.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/hansol/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/hansol/favicon/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/hansol/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/hansol/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/hansol/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/hansol/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/hansol/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/hansol/fonts/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/hansol/img/content1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/hansol/img/content2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/hansol/img/content3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/hansol/img/content4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/hansol/img/content5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/hansol/img/content6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/hansol/img/content7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/hansol/img/ico1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/hansol/img/ico2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/hansol/img/ico3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/hansol/img/ico4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/hansol/img/ico5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/hansol/img/ico6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/hansol/img/mainbanner.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/hansol/img/secondbanner.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/hansol/img/secondbanner_background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/hansol/img/thirdbanner.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/hansol/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/hansol/js/custom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/hansol/js/furniture_component.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/hansol/js/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/hansol/js/jquery-2.1.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/hansol/js/jquery-ui.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/hansol/js/jquery.easing.1.3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/hansol/js/prefixfree.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/hansol/js/relative_business.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/._index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/css/font-awesome.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/css/reset.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/css/slick-theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/css/slick.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/favicon/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/fonts/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/img/assets/bg01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/img/assets/bg02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/img/assets/bg03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/img/assets/content-bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/img/assets/forest-931706_1920.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/img/assets/landscape-1858602_1920.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/img/assets/nature-3151869_1920.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/img/assets/nextbtn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/img/assets/pic01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/img/assets/pic02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/img/assets/pic03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/img/assets/pic04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/img/assets/prevbtn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/img/assets/secret-3120483_1920.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/img/내용.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/js/IE-Checker-master/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/js/IE-Checker-master/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/js/IE-Checker-master/bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/js/IE-Checker-master/example.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/js/IE-Checker-master/ie-checker-min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/js/IE-Checker-master/ie-checker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/js/Respond-master/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/js/Respond-master/Gruntfile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/js/Respond-master/LICENSE-MIT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/js/Respond-master/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/js/Respond-master/bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/js/Respond-master/cross-domain/example-base.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/js/Respond-master/cross-domain/example.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/js/Respond-master/cross-domain/respond-proxy.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/js/Respond-master/cross-domain/respond.proxy.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/js/Respond-master/cross-domain/respond.proxy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/js/Respond-master/dest/respond.matchmedia.addListener.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/js/Respond-master/dest/respond.matchmedia.addListener.src.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/js/Respond-master/dest/respond.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/js/Respond-master/dest/respond.src.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/js/Respond-master/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/js/Respond-master/src/matchmedia.addListener.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/js/Respond-master/src/matchmedia.polyfill.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/js/Respond-master/src/respond.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/js/Respond-master/test/test.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/js/Respond-master/test/test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/js/Respond-master/test/test2.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/js/Respond-master/test/unit/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/js/Respond-master/test/unit/qunit/qunit.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/js/Respond-master/test/unit/qunit/qunit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/js/Respond-master/test/unit/test-with-comment.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/js/Respond-master/test/unit/test-with-dpr.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/js/Respond-master/test/unit/test-with-keyframe.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/js/Respond-master/test/unit/test.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/js/Respond-master/test/unit/test2.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/js/Respond-master/test/unit/test3.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/js/Respond-master/test/unit/tests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/js/html5shiv-master/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/js/html5shiv-master/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/js/html5shiv-master/Gruntfile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/js/html5shiv-master/MIT and GPL2 licenses.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/js/html5shiv-master/bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/js/html5shiv-master/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/js/html5shiv-master/dist/html5shiv-printshiv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/js/html5shiv-master/dist/html5shiv-printshiv.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/js/html5shiv-master/dist/html5shiv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/js/html5shiv-master/dist/html5shiv.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/js/html5shiv-master/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/js/html5shiv-master/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/js/html5shiv-master/src/html5shiv-printshiv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/js/html5shiv-master/src/html5shiv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/js/html5shiv-master/test/data/body-crash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/js/html5shiv-master/test/data/iframed-tests.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/js/html5shiv-master/test/data/inline-mixed-media.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/js/html5shiv-master/test/data/inline-print-media.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/js/html5shiv-master/test/data/no-print.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/js/html5shiv-master/test/data/paramtracer.swf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/js/html5shiv-master/test/data/print-styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/js/html5shiv-master/test/data/print.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/js/html5shiv-master/test/data/screen.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/js/html5shiv-master/test/highcharts/area-basic.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/js/html5shiv-master/test/highcharts/highcharts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/js/html5shiv-master/test/html5shiv.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/js/html5shiv-master/test/iframe.1-1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/js/html5shiv-master/test/iframe.1-2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/js/html5shiv-master/test/iframe.1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/js/html5shiv-master/test/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/js/html5shiv-master/test/jquery-1.7.1/data/dashboard.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/js/html5shiv-master/test/jquery-1.7.1/data/iframe.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/js/html5shiv-master/test/jquery-1.7.1/data/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/js/html5shiv-master/test/jquery-1.7.1/data/testinit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/js/html5shiv-master/test/jquery-1.7.1/data/testrunner.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/js/html5shiv-master/test/jquery-1.7.1/data/testsuite.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/js/html5shiv-master/test/jquery-1.7.1/data/versioncheck.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/js/html5shiv-master/test/jquery-1.7.1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/js/html5shiv-master/test/jquery-1.7.1/unit/core.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/js/html5shiv-master/test/jquery-1.7.1/unit/manipulation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/js/html5shiv-master/test/jquery-1.7.1/unit/traversing.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/js/html5shiv-master/test/mixed-test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/js/html5shiv-master/test/object-test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/js/html5shiv-master/test/perf.1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/js/html5shiv-master/test/perf.2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/js/html5shiv-master/test/qunit/qunit.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/js/html5shiv-master/test/qunit/qunit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/js/html5shiv-master/test/style.all.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/js/html5shiv-master/test/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/js/html5shiv-master/test/style.print.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/js/html5shiv-master/test/unit/tests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/js/html5shiv.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/js/ie-checker-min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/js/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/js/jquery-2.1.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/js/jquery-3.3.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/js/jquery-migrate-1.4.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/js/jquery-ui.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/js/jquery.easing.1.3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/js/modernizr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/js/prefixfree.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/js/respond.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/js/slick.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/html/vertical/js/slick.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/iloveWeb/._index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/iloveWeb/common/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/iloveWeb/common/main_banner.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/iloveWeb/common/main_title.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/iloveWeb/common/pc/mid_banner_bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/iloveWeb/common/tablet/shop_img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/iloveWeb/css/font-awesome.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/iloveWeb/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/iloveWeb/css/reset.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/iloveWeb/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/iloveWeb/favicon/if_Internet_Line-20_1587498.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/iloveWeb/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/iloveWeb/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/iloveWeb/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/iloveWeb/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/iloveWeb/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/iloveWeb/fonts/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/iloveWeb/icon/Log in with NAVER_Icon_Green.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/iloveWeb/icon/ceo_icon_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/iloveWeb/icon/ceo_icon_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/iloveWeb/icon/ceo_icon_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/iloveWeb/icon/daum.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/iloveWeb/icon/icon_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/iloveWeb/icon/icon_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/iloveWeb/icon/icon_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/iloveWeb/icon/icon_04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/iloveWeb/icon/icon_05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/iloveWeb/img/bg/biz_bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/iloveWeb/img/bg/footer_bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/iloveWeb/img/bg/top_bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/iloveWeb/img/ceo_logo_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/iloveWeb/img/ceo_logo_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/iloveWeb/img/ceo_logo_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/iloveWeb/img/mid_banner_bg_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/iloveWeb/img/mid_banner_bg_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/iloveWeb/img/partner_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/iloveWeb/img/partner_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/iloveWeb/img/partner_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/iloveWeb/img/partner_04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/iloveWeb/img/pc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/iloveWeb/img/shop_img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/iloveWeb/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/iloveWeb/js/html5shiv.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/iloveWeb/js/ie-checker-min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/iloveWeb/js/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/iloveWeb/js/jquery-2.1.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/iloveWeb/js/jquery-ui.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/iloveWeb/js/jquery.easing.1.3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/iloveWeb/js/modernizr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/iloveWeb/js/prefixfree.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/iloveWeb/js/respond.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/iloveWeb/js/service.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/iloveWeb/my/._my.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/iloveWeb/my/css/my.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/iloveWeb/my/img/grid_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/iloveWeb/my/img/grid_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/iloveWeb/my/img/grid_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/iloveWeb/my/img/my_code.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/iloveWeb/my/img/my_icon_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/iloveWeb/my/img/my_icon_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/iloveWeb/my/img/my_icon_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/iloveWeb/my/img/my_main_banner.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/iloveWeb/my/my.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/iloveWeb/service/css/service.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/iloveWeb/service/img/service_icon_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/iloveWeb/service/img/service_icon_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/iloveWeb/service/img/service_icon_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/iloveWeb/service/img/service_icon_04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/iloveWeb/service/img/service_icon_05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/iloveWeb/service/img/service_icon_06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/iloveWeb/service/img/service_mb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/iloveWeb/service/service.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/._index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/css/font-awesome.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/css/reset.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/favicon/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/fonts/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/img/second_banner.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/img/third_banner.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/img/top_bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/js/IE-Checker-master/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/js/IE-Checker-master/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/js/IE-Checker-master/bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/js/IE-Checker-master/example.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/js/IE-Checker-master/ie-checker-min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/js/IE-Checker-master/ie-checker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/js/Respond-master/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/js/Respond-master/Gruntfile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/js/Respond-master/LICENSE-MIT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/js/Respond-master/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/js/Respond-master/bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/js/Respond-master/cross-domain/example-base.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/js/Respond-master/cross-domain/example.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/js/Respond-master/cross-domain/respond-proxy.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/js/Respond-master/cross-domain/respond.proxy.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/js/Respond-master/cross-domain/respond.proxy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/js/Respond-master/dest/respond.matchmedia.addListener.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/js/Respond-master/dest/respond.matchmedia.addListener.src.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/js/Respond-master/dest/respond.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/js/Respond-master/dest/respond.src.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/js/Respond-master/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/js/Respond-master/src/matchmedia.addListener.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/js/Respond-master/src/matchmedia.polyfill.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/js/Respond-master/src/respond.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/js/Respond-master/test/test.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/js/Respond-master/test/test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/js/Respond-master/test/test2.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/js/Respond-master/test/unit/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/js/Respond-master/test/unit/qunit/qunit.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/js/Respond-master/test/unit/qunit/qunit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/js/Respond-master/test/unit/test-with-comment.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/js/Respond-master/test/unit/test-with-dpr.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/js/Respond-master/test/unit/test-with-keyframe.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/js/Respond-master/test/unit/test.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/js/Respond-master/test/unit/test2.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/js/Respond-master/test/unit/test3.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/js/Respond-master/test/unit/tests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/js/html5shiv-master/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/js/html5shiv-master/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/js/html5shiv-master/Gruntfile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/js/html5shiv-master/MIT and GPL2 licenses.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/js/html5shiv-master/bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/js/html5shiv-master/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/js/html5shiv-master/dist/html5shiv-printshiv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/js/html5shiv-master/dist/html5shiv-printshiv.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/js/html5shiv-master/dist/html5shiv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/js/html5shiv-master/dist/html5shiv.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/js/html5shiv-master/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/js/html5shiv-master/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/js/html5shiv-master/src/html5shiv-printshiv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/js/html5shiv-master/src/html5shiv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/js/html5shiv-master/test/data/body-crash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/js/html5shiv-master/test/data/iframed-tests.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/js/html5shiv-master/test/data/inline-mixed-media.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/js/html5shiv-master/test/data/inline-print-media.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/js/html5shiv-master/test/data/no-print.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/js/html5shiv-master/test/data/paramtracer.swf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/js/html5shiv-master/test/data/print-styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/js/html5shiv-master/test/data/print.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/js/html5shiv-master/test/data/screen.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/js/html5shiv-master/test/highcharts/area-basic.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/js/html5shiv-master/test/highcharts/highcharts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/js/html5shiv-master/test/html5shiv.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/js/html5shiv-master/test/iframe.1-1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/js/html5shiv-master/test/iframe.1-2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/js/html5shiv-master/test/iframe.1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/js/html5shiv-master/test/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/js/html5shiv-master/test/jquery-1.7.1/data/dashboard.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/js/html5shiv-master/test/jquery-1.7.1/data/iframe.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/js/html5shiv-master/test/jquery-1.7.1/data/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/js/html5shiv-master/test/jquery-1.7.1/data/testinit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/js/html5shiv-master/test/jquery-1.7.1/data/testrunner.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/js/html5shiv-master/test/jquery-1.7.1/data/testsuite.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/js/html5shiv-master/test/jquery-1.7.1/data/versioncheck.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/js/html5shiv-master/test/jquery-1.7.1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/js/html5shiv-master/test/jquery-1.7.1/unit/core.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/js/html5shiv-master/test/jquery-1.7.1/unit/manipulation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/js/html5shiv-master/test/jquery-1.7.1/unit/traversing.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/js/html5shiv-master/test/mixed-test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/js/html5shiv-master/test/object-test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/js/html5shiv-master/test/perf.1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/js/html5shiv-master/test/perf.2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/js/html5shiv-master/test/qunit/qunit.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/js/html5shiv-master/test/qunit/qunit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/js/html5shiv-master/test/style.all.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/js/html5shiv-master/test/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/js/html5shiv-master/test/style.print.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/js/html5shiv-master/test/unit/tests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/js/html5shiv.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/js/ie-checker-min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/js/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/js/jquery-2.1.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/js/jquery-3.3.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/js/jquery-migrate-1.4.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/js/jquery-ui.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/js/jquery.easing.1.3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/js/modernizr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/js/prefixfree.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/js/respond.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/mySelf/js/video.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/todayTour/._index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/todayTour/asset/common/bg/._mainbg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/todayTour/asset/common/bg/banner/eighth_banner.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/todayTour/asset/common/bg/banner/fifth_banner.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/todayTour/asset/common/bg/banner/fourth_banner.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/todayTour/asset/common/bg/banner/second_banner.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/todayTour/asset/common/bg/banner/sixth_banner.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/todayTour/asset/common/bg/banner/third_banner.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/todayTour/asset/common/bg/mainbg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/todayTour/asset/common/icon/icon01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/todayTour/asset/common/icon/icon02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/todayTour/asset/common/icon/icon03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/todayTour/asset/common/icon/icon04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/todayTour/asset/common/icon/icon05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/todayTour/asset/common/icon/icon06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/todayTour/asset/common/inquiry.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/todayTour/asset/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/todayTour/asset/css/hamburgers.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/todayTour/asset/css/reset.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/todayTour/asset/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/todayTour/asset/favicon/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/todayTour/asset/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/todayTour/asset/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/todayTour/asset/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/todayTour/asset/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/todayTour/asset/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/todayTour/asset/fonts/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/todayTour/asset/img/caret.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/todayTour/asset/img/dateTitle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/todayTour/asset/img/destination/des01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/todayTour/asset/img/destination/des02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/todayTour/asset/img/destination/des03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/todayTour/asset/img/destination/des04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/todayTour/asset/img/destination/des05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/todayTour/asset/img/destination/des06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/todayTour/asset/img/eighth_banner_img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/todayTour/asset/img/explore/._videobg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/todayTour/asset/img/explore/videobg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/todayTour/asset/img/hotel/._hotel_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/todayTour/asset/img/hotel/._hotel_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/todayTour/asset/img/hotel/._hotel_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/todayTour/asset/img/hotel/._hotel_04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/todayTour/asset/img/hotel/hotel_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/todayTour/asset/img/hotel/hotel_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/todayTour/asset/img/hotel/hotel_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/todayTour/asset/img/hotel/hotel_04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/todayTour/asset/img/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/todayTour/asset/img/map/area-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/todayTour/asset/img/map/area-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/todayTour/asset/img/map/area-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/todayTour/asset/img/map/area-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/todayTour/asset/img/map/bg-section-contact.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/todayTour/asset/img/map/travel-course.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/todayTour/asset/img/story/._boat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/todayTour/asset/img/story/boat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/todayTour/asset/img/title.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/todayTour/asset/img/title_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/todayTour/asset/img/title_icon1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/todayTour/asset/img/tour/._newyork.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/todayTour/asset/img/tour/._paris.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/todayTour/asset/img/tour/._tokyo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/todayTour/asset/img/tour/newyork.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/todayTour/asset/img/tour/paris.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/todayTour/asset/img/tour/tokyo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/todayTour/asset/img/tour_title.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/todayTour/asset/js/html5shiv.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/todayTour/asset/js/ie-checker-min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/todayTour/asset/js/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/todayTour/asset/js/jquery-2.1.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/todayTour/asset/js/jquery-3.3.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/todayTour/asset/js/jquery-migrate-1.4.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/todayTour/asset/js/jquery-ui.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/todayTour/asset/js/jquery.easing.1.3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/todayTour/asset/js/modernizr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/todayTour/asset/js/prefixfree.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/todayTour/asset/js/respond.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/todayTour/asset/js/video.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../portfolio/responsive/todayTour/index.html" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="577874126">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="3" />
+          <entry key="html" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="3" />
+          <entry key="HTML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="70" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="70" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/css/sub_common.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-383" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/css/common.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-48" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/assets/css/index_style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="338">
+              <caret line="248" column="16" selection-start-line="248" selection-start-column="16" selection-end-line="248" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>.brand-inner .brand-align h3</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/assets/css/index_style.css" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="22" />
+    <option name="width" value="1680" />
+    <option name="height" value="972" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="tams_3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tams_3" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.JavaScript" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="&lt;template&gt;" type="Applet" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0bde8920-0a08-44ae-848c-63d25bae15ef" name="Default Changelist" comment="" />
+      <created>1537433234000</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1537433234000</updated>
+      <workItem from="1537433235596" duration="747000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="747000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="22" width="1680" height="972" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24969475" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Tail" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="SonarLint" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="PlantUML" />
+      <window_info anchor="right" id="JSON Viewer" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/sub_common.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-383" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/common.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-48" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/index_style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="248" column="16" selection-start-line="248" selection-start-column="16" selection-end-line="248" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
