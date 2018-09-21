@@ -1,0 +1,118 @@
+.portfolio_grid_row {
+
+  .responDetail {
+    position: relative;
+
+    img {
+      filter: drop-shadow(8px 8px 10px #4b7580);
+      transition: .2s ease-in-out;
+      position: absolute;
+
+      &:hover {
+        filter: none;
+      }
+    }
+
+    .respon_btn {
+      position: absolute;
+      top: 280px;
+      left: 0;
+      font-family: NanumGothicCoding, monospace;
+      display: block;
+      padding: 5px 8px;
+      font-size: 1.2rem;
+      border-radius: 8px;
+      border: none;
+      background: transparent;
+      outline: none;
+
+      $color1: #566473;
+      $color2: #16a085;
+      $color3: #435a6b;
+
+      &.animate_btn_type1 {
+        color: $color1;
+        &:after, &:before {
+          content: '';
+          display: block;
+          position: absolute;
+          width: 20%;
+          height: 20%;
+          border: 2px solid;
+          transition: .6s ease;
+          border-radius: 8px;
+        }
+
+        &:after {
+          bottom: 0;
+          right: 0;
+          border-top-color: transparent;
+          border-left-color: transparent;
+          border-bottom-color: $color1;
+          border-right-color: $color1;
+        }
+
+        &:before {
+
+        }
+      }
+    }
+  }
+
+}
+
+.responsive_row1 {
+
+}
+
+.ilove {
+  overflow: hidden;
+  a.ilove_mainImg {
+    display: block;
+    float: left;
+    margin-left: 0;
+
+    img {
+      width: 100%;
+    }
+  }
+
+  .ilove_btn {
+
+    float: right;
+  }
+}
+
+.responDetail.iloveDetail {
+  img {
+    &:nth-child(1) {
+      top: 50px;
+      left: 200px;
+    }
+    &:nth-child(2) {
+      top: 325px;
+      left: 325px;
+    }
+    &:nth-child(3) {
+      top: 75px;
+      right: 0;
+
+    }
+    &:nth-child(4) {
+      top: 325px;
+      right: 25px;
+    }
+    &:nth-child(5) {
+      top: 600px;
+      left: 0;
+    }
+    &:nth-child(6) {
+      bottom: -20px;
+      right: 190px;
+    }
+
+    &:hover {
+      z-index: 1;
+    }
+  }
+}

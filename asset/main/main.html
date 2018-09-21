@@ -27,9 +27,7 @@
 	<link rel="stylesheet" type="text/css" href="../node_modules/slick-carousel/slick/slick.css">
 	<link rel="stylesheet" type="text/css" href="../css/mainStyle/style.css"/>
 	<link rel="stylesheet" type="text/css" href="../css/mainSCSS/sectionStyle.css"/>
-
-
-
+	<link rel="stylesheet" type="text/css" href="../css/sectionSCSS/portfolio_section_Style.css"/>
 
 	<!-- webfont -->
 
@@ -275,7 +273,11 @@
 						<button class="circle scaleUp" data-animation="scaleDown" data-remove="200"></button>
 					</div>
 					<div class="wide_img_wrap">
-						<img src="../img/design/index2.png" alt="index2_wide" id="index2">
+						<img src="../img/design/index2.png" alt="index2_wide" id="index2" class="img-fluid img-thumbnail">
+					</div>
+					<div class="wide_img_desc">
+						<h4>index2</h4>
+						<span>organic, eco cosmetic web-design sample</span>
 					</div>
 					<ul class="index_wide_wrap">
 						<li><img src="../img/design/designElement/index2_element/index2_1.jpg" alt="index2_1"></li>
@@ -330,46 +332,84 @@
 		</div>
 		<div class="container-fluid portfolio_container">
 			<h3 class="flow_text">HTML / CSS3</h3>
-			<div class="row portfolio_grid_row html_row">
-				<div class="col aesop">
-					<a href="#" target="_blank"><img src="../img/portfolio/thumbnail/aesop1.png" alt="html_aesop"></a>
+			<div class="row portfolio_grid_row html_row1">
+				<div class="col fullImg aesop">
+					<a href="javascript:void(0)" target="_blank">
+						<img src="../img/portfolio/thumbnail/aesop1.png" alt="html_aesop" class="img-fluid img-thumbnail">
+					</a>
+					<button class="btn-info read_more aesop_btn">Read More</button>
 				</div>
-				<div class="col">
-					<a href="#" target="_blank"><img src="../img/portfolio/thumbnail/hansol1.png" alt="html_hansol"></a>
+				<div class="col detailImg aesopDetail">
+					<img src="../img/portfolio/portfolio_element/aesop/aesop_1.png" alt="aesop_element1" class="img-fluid">
+					<img src="../img/portfolio/portfolio_element/aesop/aesop_2.png" alt="aesop_element2" class="img-fluid">
+					<div class="detail_desc">
+						<h4 class="flow_text">Aesop</h4>
+						<span>single item web-page</span>
+						<span>HTML, CSS</span>
+					</div>
+					<a href="../portfolio_page/html/aesop/index.html" target="_blank" class="site_link btn paper paper-curl-right">go to this site</a>
+					<div class="bubbleContainer">
+						<div class="bubble"></div>
+						<div class="bubble"></div>
+						<div class="bubble"></div>
+						<div class="bubble"></div>
+						<div class="bubble"></div>
+					</div>
 				</div>
+			</div>
 
-				<div class="aesop_wide mainImg_wide">
-					<div class="circleContainer wide_img_close_btn">
-						<button class="circle scaleUp" data-animation="scaleDown" data-remove="200"></button>
+			<div class="row portfolio_grid_row html_row2">
+				<div class="col detailImg hansolDetail">
+					<img src="../img/portfolio/portfolio_element/hansol/hansol_mainBanner.png" alt="hansol_main" class="img-fluid img-thumbnail">
+					<img src="../img/portfolio/portfolio_element/hansol/hansol_subBanner.png" alt="hansol_sub" class="img-thumbnail img-fluid">
+					<img src="../img/portfolio/portfolio_element/hansol/hansol_inquiry.png" alt="hansol_inquiry" class="img-fluid img-thumbnail">
+					<div class="animate_text_scss" contenteditable="true">
+						would you 'type' here?
 					</div>
-					<div class="wide_img_wrap">
-						<img src="../img/portfolio/thumbnail/aesop1.png" alt="aesop_wide">
+					<div class="detail_desc">
+						<h4 class="flow_text">Hansol</h4>
+						<span>Normal company web-page</span>
+						<span>HTML, CSS</span>
 					</div>
-					<div class="aesop_wide_wrap">
-
-					</div>
+					<a href="../portfolio_page/html/hansol/index.html" target="_blank" class="site_link btn paper paper-curl-right">go to this
+						site</a>
 				</div>
-				<div class="hansol_wide mainImg_wide">
-					<div class="circleContainer wide_img_close_btn">
-						<button class="circle scaleUp" data-animation="scaleDown" data-remove="200"></button>
-					</div>
-				</div>
-				<div class="vertical mainImg_wide">
-					<div class="circleContainer wide_img_close_btn">
-						<button class="circle scaleUp" data-animation="scaleDown" data-remove="200"></button>
-					</div>
+				<div class="col fullImg hansol">
+					<a href="javascript:void(0)" target="_blank"><img src="../img/portfolio/thumbnail/hansol1.png" alt="html_hansol"></a>
+					<button class="btn-info read_more hansol_btn">Read More</button>
 				</div>
 			</div>
 
 			<h3 class="flow_text" id="hamToggleLine">Responsive</h3>
 
-			<div class="row portfolio_grid_row responsive_row">
-				<div class="col ilove">
-					<a href="#" target="_blank"><img src="../img/portfolio/thumbnail/iloveWeb1.png" alt="responsive_iloveweb"></a>
+			<div class="row portfolio_grid_row responsive_row1">
+				<div class="col-3 ilove">
+					<a href="javascript:void(0)" target="_blank"><img src="../img/portfolio/thumbnail/iloveWeb1.png" alt="responsive_iloveweb" class="img-fluid img-thumbnail ilove_mainImg"></a>
+					<button class="btn-info read_more ilove_btn">Read More</button>
 				</div>
+				<div class="col-9 responDetail iloveDetail">
+					<img src="../img/portfolio/portfolio_element/iloveweb/iloveWeb_mainbanner.png" alt="ilove_mainBanner"
+							 class="img-fluid img-thumbnail">
+					<img src="../img/portfolio/portfolio_element/iloveweb/iloveWeb_content1.png" alt="ilove_content1" class="img-thumbnail img-fluid">
+					<img src="../img/portfolio/portfolio_element/iloveweb/iloveWeb_content2.png" alt="ilove_content2" class="img-thumbnail img-fluid">
+					<img src="../img/portfolio/portfolio_element/iloveweb/iloveWeb_content3.png" alt="ilove_content3" class="img-thumbnail img-fluid">
+					<img src="../img/portfolio/portfolio_element/iloveweb/iloveWeb_content4.png" alt="ilove_content4" class="img-thumbnail img-fluid">
+					<img src="../img/portfolio/portfolio_element/iloveweb/iloveWeb_footer.png" alt="ilove_footer" class="img-thumbnail img-fluid">
+					<div class="detail_desc">
+						<h4 class="flow_text">iLoveWeb</h4>
+						<span>Responsive company web-page</span>
+						<span>HTML, CSS</span>
+					</div>
+					<a href="../portfolio_page/responsive/iloveWeb/index.html" target="_blank" class="respon_btn animate_btn_type1">go to this
+						site</a>
+				</div>
+			</div>
+			<div class="row portfolio_grid_row responsive_row2">
 				<div class="col myself">
 					<a href="#" target="_blank"><img src="../img/portfolio/thumbnail/myself1.png" alt="responsive_myself"></a>
 				</div>
+			</div>
+			<div class="row portfolio_grid_row responsive_row3">
 				<div class="col daytour">
 					<a href="#" target="_blank"><img src="../img/portfolio/thumbnail/tour1.png" alt="daytour"></a>
 				</div>
@@ -377,20 +417,27 @@
 
 			<h3 class="flow_text">BootStrap</h3>
 
-			<div class="row portfolio_grid_row bootstrap">
+			<div class="row portfolio_grid_row bootstrap1">
 				<div class="col designtam">
 					<a href="#" target="_blank"><img src="../img/portfolio/thumbnail/foundry1.png" alt="bootstrap_foundry"></a>
 				</div>
+			</div>
+			<div class="row portfolio_grid_row bootstrap2">
 				<div class="col selfintro">
 					<a href="#" target="_blank"><img src="../img/portfolio/thumbnail/self1.png" alt="bootstrap_selfintro"></a>
 				</div>
+			</div>
+			<div class="row portfolio_grid_row bootstrap3">
 				<div class="col tams">
 					<a href="#" target="_blank"><img src="../img/portfolio/thumbnail/tams1.png" alt="bootstrap_tams"></a>
 				</div>
+			</div>
+			<div class="row portfolio_grid_row bootstrap4">
 				<div class="col winery">
 					<a href="#" target="_blank"><img src="../img/portfolio/thumbnail/wine1.png" alt="bootstrap_wine"></a>
 				</div>
 			</div>
+		</div>
 		</div>
 	</article>
 	<article id="contactme"></article>
@@ -428,9 +475,9 @@
 <script type="text/javascript">
 	//<![CDATA[
 
-	$(document).ready(function (  ) {
+	$( document ).ready( function () {
 		new WOW().init();
-	});
+	} );
 
 	//]]>
 </script>
@@ -473,14 +520,14 @@
 </script>
 
 <script type="text/javascript">
-	$(document).ready(function (  ) {
+	$( document ).ready( function () {
 		var rellax = new Rellax( '.rellax' );
-	});
+	} );
 </script>
 
 <script type="text/javascript">
-	$(document).ready(function (  ) {
-		$('.html_row1').slick({
+	$( document ).ready( function () {
+		$( '#html_row2' ).slick( {
 			dots: true,
 			infinite: false,
 			speed: 500,
@@ -512,10 +559,9 @@
 				}
 				// settings: "unslick"
 			]
-		})
-	});
+		} )
+	} );
 </script>
-
 
 
 </body>
